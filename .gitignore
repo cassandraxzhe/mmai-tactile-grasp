@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# OpenTouch data (large HDF5 files)
+data/*.hdf5
+data/*.h5
+
+# Model checkpoints
+**/checkpoints/
+experiments/*/logs/
