@@ -1,0 +1,941 @@
+hdf5_path,demo_id,environment,onset_idx,peak_idx,post_idx,action,grip_type,object_name,object_category,grip_type_grouped
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_75,grocery_tj,5,14,47,picking up,Prismatic 4 Finger,Jerky Sticks dog treats pouch,pet item,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_216,office_ml_p1,40,55,62,wiping,Prismatic 4 Finger,whiteboard eraser,cleaning item,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_107,hardware_homedepot_p3,23,71,79,holding,Medium Wrap,pickaxe,hand tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_191,office_ml_p1,36,47,60,placing,Tip Pinch,small pink foam block,game piece,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_28,eat_ygf_p2,5,12,157,scooping,Light Tool,soup spoon,utensil,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_079,office_csail_p1,74,132,137,picking up,Tip Pinch,wrapped mini candy bar,snack,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_40,fablab_ml_p2,21,104,105,pushing,Index Finger Extension,flat-file cabinet drawer,drawer,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_32,fablab_ml_p1,135,337,342,placing,Prismatic 2 Finger,metal file,hand tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_026,hardware_homedepot_p2,6,14,25,pushing,Small Diameter,shopping cart handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_077,grocery_target_p1,28,139,140,placing,Small Diameter,white teapot/kettle with gold spout,pot,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_21,grocery_plant,5,52,65,picking up,Tip Pinch,small plant product packet,package,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_147,hardware_homedepot_p5,28,88,90,touching,Tip Pinch,glass light shade (replacement globe),light,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_053,office_ml_p2,27,132,141,placing,Prismatic 2 Finger,small cube camera,camera,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_34,grocery_target_p2,7,85,87,holding,Small Diameter,snow brush and ice scraper,brush,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_075,office_ml_p2,26,43,51,adjusting,Prismatic 2 Finger,brown hardcover book on shelf,book,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_299,office_ml_p1,34,39,40,pressing,Index Finger Extension,power strip switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_096,hardware_homedepot_p5,31,66,67,pulling,Fixed Hook,refrigerator door handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_178,home_kitchen_p1,8,12,137,picking up,Tip Pinch,single-serve coffee creamer cup,dairy product,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_60,fablab_ml_p2,9,14,63,picking up,Tip Pinch,clear plastic cup,cup,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_125,home_bedroom,26,79,89,folding,Tip Pinch,pair of denim jeans,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_247,office_ml_p1,36,117,120,placing,Prismatic 3 Finger,tuning fork,instrument,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_21,fablab_ml_p3,37,71,80,placing,Prismatic 2 Finger,tape measure,measuring tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_10,fablab_ml_p2,6,14,60,pulling,Prismatic 3 Finger,thick plastic panel,construction material,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_062,office_ml_p1,106,327,333,wiping,Prismatic 4 Finger,whiteboard eraser,cleaning item,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_04,hardware_homedepot_p1,44,63,76,lifting,Fixed Hook,folding step ladder carry handle,tool,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_057,home_bedroom,19,41,43,picking up,Tip Pinch,receipt slip,paper,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_37,grocery_plant,34,89,95,placing,Prismatic 3 Finger,green massage soap bar,toiletry,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_82,hardware_homedepot_p4,36,55,59,picking up,Tip Pinch,PTFE thread seal tape roll (blue spool) on retail card,tape,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_07,home_kitchen_p3,11,54,59,holding,Small Diameter,insulated water bottle,bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_255,office_ml_p2,6,13,231,adjusting,Small Diameter,gooseneck desk lamp,light,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_109,office_csail_p1,7,13,164,placing,Tip Pinch,coat,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_008,home_bedroom,9,13,24,picking up,Tip Pinch,green waffle-knit towel/cloth,fabric,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_053,office_csail_p1,24,58,63,pulling,Prismatic 2 Finger,wood-framed glass cabinet door,cabinet,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_002,home_kitchen_p1,64,100,104,adjusting,Tip Pinch,frying pan handle,handle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_082,office_ml_p2,28,41,53,adjusting,Small Diameter,wooden pole in a weighted base,stick,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_065,office_csail_p1,49,74,76,touching,Tip Pinch,KIND granola bars box,packaged food,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_007,hardware_homedepot_p5,25,60,61,pressing,Small Diameter,small sink plunger,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_027,office_ml_p1,57,74,81,folding,Palmar,folding tablet stand,component,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_151,home_kitchen_p1,30,47,48,pulling,Fixed Hook,refrigerator door,door,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_252,office_ml_p2,31,95,106,pushing,Prismatic 2 Finger,small desktop computer (Mac mini–style),computer,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_139,office_ml_p1,10,14,70,picking up,Prismatic 2 Finger,clear plastic petri dish,container,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_13,grocery_plant,43,86,91,picking up,Tip Pinch,air plant (Tillandsia),plant,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_023,hardware_homedepot_p5,22,66,73,sliding,Small Diameter,sliding shower door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_072,home_kitchen_p1,7,14,45,picking up,Prismatic 2 Finger,small ceramic plate,plate,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_94,grocery_target_p2,28,64,67,picking up,Prismatic 2 Finger,water bottle cap loop,bottle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_68,grocery_plant,64,119,123,grasping,Prismatic 2 Finger,wire plant basket,container,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_018,grocery_target_p1,24,53,59,holding,Small Diameter,condiment squeeze bottle,bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_190,office_ml_p1,5,42,44,placing,Tip Pinch,mini foam football,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_024,office_csail_p2,9,59,66,pushing,Small Diameter,wagon handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_098,home_kitchen_p1,5,11,78,picking up,Medium Wrap,electric kettle,appliance,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_10,grocery_tj,6,10,86,picking up,Tip Pinch,bag of sandwich rolls,bread,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_114,hardware_homedepot_p3,5,9,54,picking up,Small Diameter,pickaxe,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_10,eat_mcdonalds,33,66,73,picking up,Tip Pinch,French fry,food,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_150,home_kitchen_p1,31,50,54,placing,Prismatic 3 Finger,frozen food box,packaged food,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_047,office_csail_p2,6,11,33,pulling,Small Diameter,office chair backrest frame,chair,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_075,home_bedroom,28,57,61,folding,Tip Pinch,cardboard shipping box flap,box,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_126,office_ml_p1,5,9,45,pushing,Index Finger Extension,purple plastic egg capsule,toy,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_111,home_kitchen_p1,38,58,62,pulling,Fixed Hook,refrigerator door handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_233,office_ml_p1,25,54,57,switching on,Index Finger Extension,slim LED flashlight,light,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_140,office_ml_p2,92,292,299,placing,Small Diameter,bottle brush,brush,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_111,hardware_homedepot_p3,5,14,34,examining,Tip Pinch,inflatable air wedge (air shim) package,hand tool,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_71,fablab_ml_p2,24,65,73,turning,Small Diameter,bench vise handle,tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_045,office_ml_p2,5,13,31,picking up,Prismatic 3 Finger,glass spice jar,bottle,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_093,hardware_homedepot_p3,86,115,123,picking up,Small Diameter,red gas can,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_045,home_bedroom,47,98,98,picking up,Tip Pinch,white charging cable,cable,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_219,office_ml_p2,64,72,85,pressing,Small Diameter,TV remote control,remote,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_22,eat_mcdonalds,262,323,332,placing,Prismatic 2 Finger,small paper food bag,bag,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_179,hardware_homedepot_p5,21,65,66,pressing,Power Disk,yellow plastic storage bin lid,container,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_006,hardware_homedepot_p5,65,91,93,pointing,Writing Tripod,white marker,marker,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_10,fablab_ml_p1,119,218,221,pressing,Palmar,grid cutting mat,tool,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_23,fablab_ml_p1,29,56,63,picking up,Small Diameter,wooden mallet,hammer,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_14,hardware_homedepot_p1,191,325,337,placing,Small Diameter,roofing hand scraper with serrated head,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_57,fablab_ml_p1,41,51,58,picking up,Tip Pinch,pair of scissors,scissors,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_084,home_bedroom,74,99,100,plugging in,Prismatic 2 Finger,AC power plug,plug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_19,fablab_ml_p2,38,81,92,grasping,Tip Pinch,short white cylindrical rod stock,construction material,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_049,hardware_homedepot_p3,25,111,118,pulling,Fixed Hook,door pull handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_148,office_ml_p2,7,12,30,pressing,Palmar Pinch,desktop computer power button,button,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_017,hardware_homedepot_p5,49,91,91,pressing,Palmar,toilet seat lid,toiletry,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_185,office_ml_p1,9,14,52,picking up,Tip Pinch,mini plastic slinky,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_092,office_ml_p1,32,53,55,attaching,Precision Sphere,phone mount ball joint,component,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_154,office_ml_p1,8,11,21,picking up,Prismatic 2 Finger,small yellow toy block,toy,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_62,fablab_ml_p1,131,217,222,placing,Prismatic 2 Finger,utility knife (box cutter),hand tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_30,home_kitchen_p3,13,14,113,picking up,Tip Pinch,small glass cup,drinkware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_039,hardware_homedepot_p5,27,54,57,pulling,Fixed Hook,refrigerator door handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_127,office_ml_p2,10,14,28,pushing,Palmar,mini refrigerator door,refrigerator,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_73,hardware_homedepot_p4,68,97,105,pulling,Small Diameter,hand truck handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_020,hardware_homedepot_p2,31,97,110,picking up,Fixed Hook,5-gallon joint compound bucket (bail handle),container,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_087,home_bedroom,63,89,94,inserting,Tip Pinch,camera battery charger,charger,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_03,hardware_homedepot_p1,382,444,447,picking up,Small Diameter,folding step stool handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_316,office_ml_p1,49,71,71,pushing,Medium Wrap,office chair armrest,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_38,grocery_target_p2,13,14,92,picking up,Prismatic 3 Finger,plastic cleaner bottle from shelf,bottle,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_048,hardware_homedepot_p2,5,9,94,grasping,Small Diameter,yellow corded power drill,power tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_165,hardware_homedepot_p5,10,13,56,picking up,Prismatic 2 Finger,wooden slat,construction material,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_002,office_ml_p1,6,9,52,pressing,Index Finger Extension,lava lamp,light,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_014,office_ml_p2,78,152,162,plugging in,Prismatic 3 Finger,wall power plug,plug,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_56,fablab_ml_p2,13,14,269,picking up,Tip Pinch,wooden craft stick,stick,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_262,office_ml_p2,5,13,28,pressing,Adducted Thumb,office chair adjustment button,button,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_088,hardware_homedepot_p3,30,151,161,picking up,Tip Pinch,metal hasp,hardware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_158,office_ml_p2,55,110,115,pressing,Palmar,spiky stress ball,ball,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_136,office_ml_p2,31,73,74,adjusting,Prismatic 2 Finger,computer monitor,monitor,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_012,home_kitchen_p1,8,14,70,picking up,Tip Pinch,stainless steel pot lid,component,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_147,office_ml_p2,30,67,73,switching on,Tip Pinch,power strip rocker switch,switch,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_071,office_csail_p2,21,60,61,pulling,Prismatic 2 Finger,wooden cabinet door,cabinet,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_128,grocery_target_p1,5,11,45,picking up,Palmar,striped throw pillow,fabric,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_066,hardware_homedepot_p3,8,12,29,picking up,Prismatic 2 Finger,black door pull handle,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_48,grocery_plant,144,177,185,picking up,Tip Pinch,small alien figurine,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_070,office_ml_p1,6,14,56,typing,Parallel Extension,compact wireless keyboard,keyboard,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_063,hardware_homedepot_p2,101,160,162,placing,Prismatic 2 Finger,carpenter pencil,pencil,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_49,grocery_target_p2,30,63,65,holding,Small Diameter,pink plastic tongs,utensil,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_82,fablab_ml_p1,161,227,236,picking up,Prismatic 2 Finger,red-handled screwdriver,hand tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_102,office_csail_p2,61,90,91,holding,Small Diameter,tripod leg (telescopic pole),stick,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_075,hardware_homedepot_p3,35,76,88,testing,Tip Pinch,cabinet latch display piece,hardware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_116,hardware_homedepot_p5,26,39,46,turning,Precision Disk,stove control knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_119,office_ml_p2,32,61,71,moving,Fixed Hook,red lounge chair,chair,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_03,fablab_ml_p3,46,60,71,picking up,Small Diameter,slim steel rod hand tool from wall tool board,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_098,hardware_homedepot_p2,25,60,61,inspecting,Tip Pinch,wooden shim,construction material,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_44,eat_mcdonalds,20,39,41,adjusting,Tip Pinch,plastic straw in soda cup,drinkware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_078,hardware_homedepot_p3,42,118,125,pressing,Index Finger Extension,shelf-mounted push button module,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_12,home_kitchen_p3,18,53,56,lifting,Medium Wrap,frying pan handle,pan,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_072,hardware_homedepot_p3,5,12,90,inspecting,Small Diameter,door pull handle sample,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_05,home_kitchen_p2,8,14,91,picking up,Prismatic 2 Finger,ceramic mug with blue pattern,mug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_17,home_kitchen_p3,37,155,157,unscrewing,Precision Disk,milk carton,dairy product,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_145,home_kitchen_p1,33,72,74,pushing,Palmar,kitchen cabinet door,cabinet,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_88,fablab_ml_p2,46,137,144,moving,Medium Wrap,rolling office chair,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_110,home_kitchen_p1,53,94,102,removing,Palmar Pinch,bag of frozen vegetables,packaged food,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_003,office_ml_p1,42,63,71,moving,Medium Wrap,office chair,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_070,hardware_homedepot_p3,11,13,28,turning,Small Diameter,door lever handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_123,office_ml_p2,109,189,190,pulling,Prismatic 3 Finger,mini refrigerator door,refrigerator,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_325,office_ml_p1,20,70,78,pushing,Palmar,metal desk pedestal bottom drawer,drawer,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_122,office_ml_p2,10,14,221,wiping,Prismatic 4 Finger,whiteboard eraser,cleaning item,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_143,hardware_homedepot_p5,29,45,49,touching,Index Finger Extension,crystal pendant light,light,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_020,office_ml_p2,5,49,58,rotating,Prismatic 2 Finger,computer monitor,monitor,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_20,eat_mcdonalds,76,114,116,grasping,Tip Pinch,plastic drink cup with straw,cup,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_064,grocery_target_p1,23,55,56,pressing,Index Finger Extension,display shelf push button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_16,fablab_ml_p1,5,70,74,adjusting,Prismatic 3 Finger,digital caliper,measuring tool,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_144,office_ml_p2,27,44,52,adjusting,Prismatic 2 Finger,under-desk footrest,unknown object,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_238,office_ml_p1,37,57,58,tapping,Index Finger Extension,printed document,paper,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_066,office_ml_p2,18,36,41,picking up,Prismatic 3 Finger,handheld laser distance meter,measuring tool,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_062,office_csail_p1,38,67,67,grasping,Prismatic 2 Finger,Chewy granola bars box,box,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_15,fablab_ml_p1,49,87,92,picking up,Prismatic 3 Finger,digital calipers,measuring tool,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_25,hardware_homedepot_p1,27,73,80,pushing,Small Diameter,orange folding safety gate,hardware,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_013,home_bedroom,10,14,26,picking up,Tip Pinch,pair of jeans,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_046,grocery_target_p1,26,55,62,pinching,Tip Pinch,wooden cooking spoon,utensil,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_44,grocery_plant,31,55,56,placing,Tip Pinch,glass pinecone ornament,unknown object,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_086,office_csail_p2,31,54,55,pushing,Index Finger Extension,KIND snack bars box,packaged food,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_071,grocery_target_p1,64,89,92,placing,Small Diameter,brass flour sifter,utensil,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_039,office_csail_p1,7,14,67,pulling,Fixed Hook,cabinet drawer handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_042,office_csail_p1,22,51,60,sliding,Index Finger Extension,espresso machine water reservoir lid,appliance,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_000,hardware_homedepot_p3,33,81,92,pulling,Small Diameter,sliding glass door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_026,office_ml_p2,40,52,55,tilting,Prismatic 2 Finger,computer monitor,monitor,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_048,home_bedroom,40,160,162,pressing,Palmar,red knit glove,glove,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_086,hardware_homedepot_p3,64,112,124,pressing,Index Finger Extension,gravity gate latch display piece,hardware,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_090,hardware_homedepot_p3,39,46,60,touching,Index Finger Extension,blister pack containing a metal hasp latch,hardware,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_116,office_csail_p1,12,14,43,moving,Palmar,vertical ergonomic computer mouse,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p1.hdf5,demo_11,eat_ygf_p1,47,112,135,serving,Light Tool,serving tongs,utensil,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_069,home_kitchen_p1,9,13,240,placing,Small Diameter,kitchen knife,knife,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_20,hardware_homedepot_p4,26,367,380,holding,Small Diameter,push broom,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_038,hardware_homedepot_p2,8,14,55,tilting,Medium Wrap,miter saw handle,power tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_047,office_ml_p1,8,13,51,resting hand,Palmar,office chair armrest,chair,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_256,office_ml_p2,7,14,71,pressing,Index Finger Extension,inline light/power switch module,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_001,hardware_homedepot_p5,29,37,49,picking up,Small Diameter,toilet plunger,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_078,grocery_target_p1,31,46,54,touching,Tip Pinch,white watering can with brass spout,container,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_34,home_kitchen_p3,10,14,27,scraping,Small Diameter,fork,cutlery,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_154,home_kitchen_p1,43,85,85,picking up,Sphere 3 Finger,orange,fruit,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_56,grocery_target_p2,35,306,318,zipping,Tip Pinch,backpack zipper pull,zipper,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_40,grocery_plant,26,57,68,adjusting,Tip Pinch,glass Christmas ornament,unknown object,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_026,office_csail_p2,96,105,115,plugging in,Prismatic 2 Finger,USB-C plug for laptop,plug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_046,hardware_homedepot_p3,23,123,123,pulling,Small Diameter,door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_14,grocery_tj,9,14,19,pushing,Palmar,shopping cart handle,handle,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_034,home_kitchen_p1,50,90,92,placing,Prismatic 3 Finger,wooden chopstick,utensil,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_16,grocery_target_p2,217,250,264,pushing,Medium Wrap,shopping cart handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_112,office_ml_p2,5,13,23,moving,Fixed Hook,plastic stacking chair,chair,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_249,office_ml_p2,8,14,26,adjusting,Tip Pinch,aluminum device enclosure (square box with droplet logo),box,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_114,office_ml_p2,59,78,84,pressing,Palmar,small tan booklet,book,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_65,fablab_ml_p1,7,13,41,picking up,Small Diameter,wooden mallet,hammer,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_48,grocery_target_p2,55,114,116,carrying,Small Diameter,hula hoop,sports equipment,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_163,hardware_homedepot_p5,27,38,44,picking up,Prismatic 2 Finger,wooden slatted crate,box,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_078,hardware_homedepot_p2,65,105,111,scanning,Prismatic 2 Finger,handheld barcode scanner,sensor,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_32,home_kitchen_p2,41,303,317,picking up,Tip Pinch,dragon fruit slice,fruit,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_185,office_ml_p2,683,830,843,picking up,Tip Pinch,ID badge on lanyard,card,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_327,office_ml_p1,7,13,95,switching on,Index Finger Extension,wall light switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_22,fablab_ml_p3,56,90,96,picking up,Light Tool,rotary cutter,hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_07,grocery_tj,27,129,138,touching,Index Finger Extension,frozen waffle box,packaged food,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_009,home_kitchen_p1,5,6,160,picking up,Prismatic 4 Finger,soda can 12-pack carton,package,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_70,fablab_ml_p2,53,125,129,placing,Small Diameter,cordless work light,light,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_050,grocery_target_p1,46,58,64,touching,Tip Pinch,drinking glass,glass,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_051,grocery_target_p1,43,68,79,grasping,Tip Pinch,clear drinking glass (tumbler),drinkware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_018,office_csail_p2,28,58,62,pushing,Palmar,pantry cabinet door,cabinet,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_102,hardware_homedepot_p3,398,556,560,carrying,Small Diameter,cordless leaf blower,power tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_09,eat_ygf_p2,71,108,112,picking up,Writing Tripod,chopsticks,utensil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_092,hardware_homedepot_p2,10,11,31,picking up,Small Diameter,telescoping magnetic pick-up tool,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_016,grocery_target_p1,21,72,74,adjusting,Tip Pinch,condiment squeeze bottle with nozzle cap,bottle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_034,home_bedroom,151,327,331,spraying,Light Tool,spray bottle,bottle,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_090,hardware_homedepot_p2,59,74,80,picking up,Tip Pinch,driveway marker stake,stick,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_064,office_csail_p2,35,95,96,pulling,Fixed Hook,mini fridge door handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_101,home_bedroom,54,111,123,picking up,Tip Pinch,garment from laundry basket,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_101,hardware_homedepot_p5,225,346,351,pulling,Small Diameter,microwave oven door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_17,fablab_ml_p1,182,201,210,placing,Prismatic 2 Finger,bar clamp,hand tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_021,office_csail_p1,62,93,102,grasping,Prismatic 2 Finger,ceramic coffee mug with spoon,mug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_062,hardware_homedepot_p5,19,44,52,pulling,Fixed Hook,refrigerator door handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_36,grocery_target_p2,8,14,24,pressing,Medium Wrap,spray cleaner bottle,cleaning item,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_26,eat_ygf_p2,7,13,32,scooping,Small Diameter,black soup spoon,utensil,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_027,office_ml_p2,6,7,40,tilting,Tip Pinch,computer monitor,monitor,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_153,home_kitchen_p1,22,36,41,pulling,Medium Wrap,refrigerator door handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_268,office_ml_p2,38,58,61,placing,Writing Tripod,ballpoint pen,pen,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_055,home_bedroom,5,8,23,picking up,Tip Pinch,nylon zip tie,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_069,hardware_homedepot_p2,42,70,72,pressing,Small Diameter,Ryobi compact cordless screwdriver,power tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_61,hardware_homedepot_p4,103,145,152,placing,Fixed Hook,5-gallon plastic bucket,container,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_186,home_kitchen_p1,23,40,43,adjusting,Medium Wrap,Instant Pot pressure cooker lid handle,appliance,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_11,grocery_plant,106,156,160,touching,Tip Pinch,small potted succulent,plant,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_036,hardware_homedepot_p5,25,57,67,attaching,Small Diameter,pull-down faucet spray head,faucet,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_76,grocery_tj,48,60,70,touching,Index Finger Extension,feather cat toy,pet item,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_08,grocery_target_p2,28,91,101,grasping,Prismatic 2 Finger,plastic wastebasket,container,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_064,home_bedroom,32,58,59,picking up,Tip Pinch,small plastic parts pouch,package,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_088,office_ml_p1,116,207,220,placing,Prismatic 3 Finger,clear acrylic phone stand,unknown object,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_048,office_ml_p2,5,48,49,picking up,Light Tool,aerosol spray can with pistol-grip trigger,can,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_236,office_ml_p1,31,67,78,picking up,Prismatic 2 Finger,printed sheet of paper,paper,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_009,office_csail_p1,9,14,31,pressing,Index Finger Extension,battery charger with status LED,charger,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_10,hardware_homedepot_p4,8,14,92,carrying,Medium Wrap,garden hoe,hand tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_174,office_ml_p2,6,14,41,pressing,Index Finger Extension,computer monitor power button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_175,home_kitchen_p1,11,12,45,picking up,Precision Disk,metal jar lid,component,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_033,office_csail_p1,19,60,67,lifting,Prismatic 2 Finger,laptop lid,computer,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_035,grocery_target_p1,32,72,72,picking up,Tip Pinch,garlic press,utensil,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_110,office_csail_p1,5,12,32,removing,Tip Pinch,beige coat,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_094,hardware_homedepot_p2,32,85,87,placing,Lateral,RIDGID vacuum hose lock clamp package,package,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_095,hardware_homedepot_p5,29,33,35,pulling,Fixed Hook,refrigerator door handle,refrigerator,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_54,fablab_ml_p2,5,12,38,pulling,Prismatic 3 Finger,yellow metal cabinet door,cabinet,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_043,office_ml_p2,24,49,60,pressing,Index Finger Extension,power button on black electronic unit,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_114,grocery_target_p1,67,88,92,placing,Tip Pinch,woven round side table,table,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_27,home_kitchen_p3,10,14,161,scooping,Tripod,metal spoon,cutlery,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_102,office_csail_p1,64,96,98,switching on,Tip Pinch,light switch,switch,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_60,fablab_ml_p1,111,131,145,adjusting,Tip Pinch,orange-handled scissors,scissors,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_48,hardware_homedepot_p4,40,56,60,picking up,Tip Pinch,paper lawn bag,bag,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_066,office_csail_p2,23,41,47,picking up,Small Diameter,aluminum soda can in refrigerator door,can,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_182,hardware_homedepot_p5,47,72,77,placing,Prismatic 2 Finger,foam packing roll,construction material,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_006,office_ml_p2,45,51,56,plugging in,Prismatic 2 Finger,USB power adapter,charger,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_074,office_csail_p1,33,42,46,pushing,Extension Type,cabinet door,cabinet,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_153,hardware_homedepot_p5,44,155,167,holding,Small Diameter,microfiber duster with blue handle,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_63,grocery_tj,418,535,537,picking up,Prismatic 2 Finger,tuna can,can,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_23,eat_mcdonalds,9,12,30,pulling,Tip Pinch,small paper food bag,bag,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_025,office_csail_p1,7,12,78,pulling,Fixed Hook,desk edge,table,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_38,fablab_ml_p3,26,71,72,moving,Small Diameter,dead-blow mallet,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_164,office_ml_p2,8,12,130,typing,Index Finger Extension,computer keyboard,keyboard,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_156,hardware_homedepot_p5,24,78,86,carrying,Small Diameter,telescoping duster pole,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_27,hardware_homedepot_p1,36,80,88,pulling,Ring,orange folding barrier handle,handle,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_24,eat_mcdonalds,137,177,188,adjusting,Prismatic 2 Finger,soft-serve ice cream cup,cup,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_19,fablab_ml_p1,176,312,320,placing,Light Tool,utility knife (box cutter),hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_100,hardware_homedepot_p3,29,50,56,picking up,Prismatic 2 Finger,swivel caster wheel,hardware,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_30,hardware_homedepot_p4,50,101,105,placing,Small Diameter,bar clamp,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_132,home_kitchen_p1,37,81,87,placing,Tip Pinch,clear plastic mixing bowl,bowl,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_108,hardware_homedepot_p5,19,68,73,pushing,Medium Wrap,oven door handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_112,hardware_homedepot_p3,9,13,17,holding,Medium Wrap,pick mattock,hand tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_030,hardware_homedepot_p3,21,37,43,sliding,Parallel Extension,metal shelf rail on door-hardware display,handle,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_109,office_ml_p1,95,334,344,placing,Prismatic 3 Finger,mini puzzle cube,toy,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_213,office_ml_p1,25,69,70,spraying,Small Diameter,aerosol cleaning spray can,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_008,hardware_homedepot_p2,9,14,81,picking up,Prismatic 2 Finger,vinyl fence post cap,construction material,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_057,office_ml_p1,36,88,96,moving,Medium Wrap,office chair backrest,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_26,grocery_target_p2,177,211,215,touching,Index Finger Extension,handheld shrink wrap roll,tape,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_36,fablab_ml_p3,33,146,156,placing,Small Diameter,wooden mallet,hammer,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_36,home_kitchen_p2,107,178,192,picking up,Light Tool,fork,cutlery,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_058,office_ml_p1,5,13,38,pushing,Medium Wrap,office chair backrest,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_075,office_ml_p1,37,67,70,touching,Ventral,white desk surface,table,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_126,hardware_homedepot_p3,5,57,70,grasping,Small Diameter,bar clamp (F-clamp) with red screw handle,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_122,office_ml_p1,31,221,231,placing,Tip Pinch,piece of colored chalk,marker,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_11,eat_ygf_p2,107,131,135,serving,Light Tool,kitchen tongs,utensil,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_016,office_ml_p1,5,14,41,picking up,Prismatic 2 Finger,spoon,cutlery,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_030,office_csail_p1,78,120,125,pressing,Index Finger Extension,standing desk control panel button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_095,grocery_target_p1,37,67,69,picking up,Tip Pinch,amber ribbed glass dessert bowl,bowl,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_52,grocery_tj,64,148,157,picking up,Tip Pinch,garlic bulb,vegetable,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_145,hardware_homedepot_p5,42,99,102,touching,Tip Pinch,crystal cube pendant light sample,light,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_083,office_csail_p2,5,13,59,picking up,Small Diameter,Diet Coke can,can,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_39,fablab_ml_p3,5,11,84,picking up,Small Diameter,dead-blow mallet,hammer,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_066,hardware_homedepot_p2,58,84,90,touching,Index Finger Extension,Ryobi portable fan,appliance,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_051,home_bedroom,48,71,72,picking up,Prismatic 2 Finger,pack of sticky notes,paper,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_122,hardware_homedepot_p3,267,335,336,placing,Small Diameter,small pickaxe (rock hammer),hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_84,fablab_ml_p1,12,14,102,placing,Light Tool,yellow-handled screwdriver,screwdriver,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_75,grocery_target_p2,5,63,65,picking up,Power Sphere,American football,ball,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_048,hardware_homedepot_p3,29,56,58,pressing,Index Finger Extension,lock display demo button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_56,fablab_ml_p1,73,146,148,placing,Writing Tripod,gray marker,marker,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_41,eat_mcdonalds,6,7,30,holding,Medium Wrap,soda cup with straw,cup,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_26,grocery_tj,25,62,70,feeling,Tip Pinch,persimmon,fruit,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_033,office_ml_p1,76,106,116,wiping,Palmar,paper towel,cleaning item,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_90,grocery_target_p2,47,59,61,picking up,Small Diameter,yellow water bottle with top carry handle,bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_048,home_kitchen_p1,33,43,43,pressing,Index Finger Extension,espresso machine brew button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_059,hardware_homedepot_p2,98,134,142,grasping,Medium Wrap,Makita circular saw rear handle,power tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_125,hardware_homedepot_p5,60,128,137,turning,Prismatic 2 Finger,stove control knob,knob,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_176,hardware_homedepot_p5,6,13,37,picking up,Prismatic 2 Finger,plastic storage box with yellow lid,box,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_069,hardware_homedepot_p3,62,243,253,inspecting,Tip Pinch,black door pull handle (display sample),handle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_02,grocery_target_p2,53,81,86,placing,Prismatic 2 Finger,clear plastic storage bin,container,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_73,grocery_target_p2,11,14,239,examining,Tip Pinch,flying ring (Aerobie-style disc),sports equipment,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_108,office_ml_p2,20,42,45,aligning,Adducted Thumb,paperback book on shelf,book,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_078,office_ml_p1,7,13,29,pressing,Palmar,computer mouse with orange scroll wheel,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_18,grocery_target_p2,37,60,71,sliding,Index Finger Extension,plastic storage drawer,drawer,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_149,office_ml_p2,44,58,60,pressing,Index Finger Extension,office chair armrest,chair,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_119,home_bedroom,26,39,47,pulling,Prismatic 2 Finger,belt on jeans,belt,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_21,grocery_target_p2,149,186,191,picking up,Tip Pinch,packaged plug-in night light,package,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_094,home_kitchen_p1,34,56,60,adjusting,Tip Pinch,palm frond (houseplant leaf),plant,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_116,home_bedroom,129,216,224,folding,Palmar,pair of khaki pants,clothing item,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_61,fablab_ml_p2,230,528,532,picking up,Tip Pinch,plastic cup,cup,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_43,hardware_homedepot_p4,43,113,116,picking up,Prismatic 4 Finger,2-cycle fuel can (50:1 mix),can,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_031,office_ml_p2,30,59,61,pressing,Index Finger Extension,pushbutton on breadboard,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_072,office_ml_p2,8,13,48,picking up,Medium Wrap,coiled white cable,cable,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_160,office_ml_p2,29,57,58,unscrewing,Prismatic 2 Finger,plastic water bottle (green cap),bottle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_178,office_ml_p2,41,179,190,twisting,Tip Pinch,window blind tilt wand,stick,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_314,office_ml_p1,7,14,20,moving,Tip Pinch,red adhesive tape roll,tape,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_191,office_ml_p2,8,14,45,picking up,Fixed Hook,virtual reality headset,AR/VR device,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_26,eat_mcdonalds,54,67,73,holding,Tip Pinch,burger in yellow fast‑food wrapper,packaged food,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_158,office_ml_p1,7,11,30,resting hand,Ventral,desk/table surface,table,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_015,office_ml_p2,5,11,22,picking up,Prismatic 3 Finger,power plug,plug,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_32,fablab_ml_p3,48,61,67,picking up,Prismatic 2 Finger,wooden mallet,hammer,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_002,grocery_target_p1,90,118,122,touching,Palmar,green silicone jar opener ring,hand tool,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_15,fablab_ml_p3,90,112,123,moving,Prismatic 3 Finger,compact tape measure,measuring tool,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_065,hardware_homedepot_p2,39,61,62,pressing,Index Finger Extension,Ryobi portable fan,appliance,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_28,home_kitchen_p3,63,142,143,eating,Writing Tripod,fork,cutlery,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_023,office_ml_p1,46,106,111,unfolding,Tip Pinch,black fabric accessory pouch,bag,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_241,office_ml_p1,24,44,44,pressing,Ventral,printed document sheet,paper,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_038,home_kitchen_p1,73,100,102,pressing,Small Diameter,flashlight,light,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_007,office_ml_p2,5,11,33,picking up,Prismatic 3 Finger,USB wall charger,charger,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_099,office_csail_p1,10,13,27,sliding,Prismatic 2 Finger,pull-out keyboard tray,drawer,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_083,office_ml_p2,8,11,57,carrying,Small Diameter,toilet plunger,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_39,hardware_homedepot_p4,56,181,194,placing,Small Diameter,small pickaxe,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_139,office_ml_p2,8,12,23,unplugging,Prismatic 2 Finger,USB-A plug,plug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_35,eat_ygf_p2,6,12,94,picking up,Writing Tripod,chopsticks,utensil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_005,home_kitchen_p1,11,14,71,placing,Small Diameter,small nonstick pan,pan,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_01,fablab_ml_p3,66,138,146,grasping,Prismatic 2 Finger,steel ruler on tool wall,measuring tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_201,office_ml_p2,49,191,204,placing,Prismatic 2 Finger,paper shopping bag,bag,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_83,fablab_ml_p2,7,12,72,pulling,Medium Wrap,trash can handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_134,office_ml_p2,89,129,141,pushing,Palmar,plastic-wrapped pack of paper towels/napkins,toiletry,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_85,grocery_target_p2,207,264,272,placing,Small Diameter,insulated tumbler with handle and straw,drinkware,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_032,office_csail_p1,80,84,85,holding,Prismatic 2 Finger,table edge,table,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_130,office_ml_p2,43,76,84,picking up,Tip Pinch,bag of pistachios,packaged food,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_050,office_ml_p1,73,297,297,touching,Index Finger Extension,shallow white plastic dish,container,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_47,grocery_tj,125,490,503,picking up,Prismatic 2 Finger,packaged sliced cheese,dairy product,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_072,office_csail_p1,7,12,52,placing,Prismatic 3 Finger,Chewy granola bar box,packaged food,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_91,hardware_homedepot_p4,44,92,97,placing,Prismatic 2 Finger,PVC cement can,can,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_226,office_ml_p1,73,78,91,pressing,Index Finger Extension,pump spray bottle,bottle,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_11,eat_mcdonalds,59,80,87,picking up,Power Sphere,yellow-wrapped sandwich,packaged food,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_074,office_ml_p2,19,47,52,pressing,Palmar,brown hardcover book on shelf,book,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_129,hardware_homedepot_p3,10,12,163,picking up,Prismatic 2 Finger,Milwaukee pruning saw (packaged),hand tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_09,fablab_ml_p2,6,13,43,sliding,Parallel Extension,wood panel,construction material,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_021,office_csail_p2,34,40,41,pushing,Palmar,cabinet door,cabinet,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_51,grocery_tj,6,14,40,picking up,Prismatic 2 Finger,single-serve Greek yogurt cup,dairy product,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_148,hardware_homedepot_p5,11,12,38,picking up,Tip Pinch,frosted glass lamp shade,light,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_10,home_kitchen_p2,12,61,69,picking up,Tip Pinch,dragon fruit slice,fruit,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_164,hardware_homedepot_p5,27,72,77,lifting,Palmar,wooden slatted crate,box,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_35,home_kitchen_p3,36,44,54,moving,Tip Pinch,small plastic cup,cup,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_049,office_ml_p1,10,14,43,pressing,Palmar,computer mouse,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_61,grocery_target_p2,201,887,894,pressing,Tip Pinch,American football,ball,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_155,hardware_homedepot_p5,33,41,45,picking up,Small Diameter,lint roller,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_77,grocery_target_p2,34,66,79,placing,Power Sphere,American football,ball,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_004,home_bedroom,7,13,26,picking up,Tip Pinch,white cloth,fabric,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_16,home_kitchen_p3,6,14,62,holding,Small Diameter,drinking glass with coffee,drinkware,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_100,home_bedroom,31,120,129,switching off,Index Finger Extension,desk lamp switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_084,office_csail_p2,23,69,71,pulling,Prismatic 2 Finger,cabinet door handle,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_12,home_kitchen_p2,27,55,59,pulling,Prismatic 2 Finger,kitchen cabinet door,cabinet,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_032,office_ml_p1,323,365,372,pressing,Index Finger Extension,hand sanitizer pump bottle,toiletry,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_173,office_ml_p2,153,211,214,pressing,Index Finger Extension,window lock switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_079,hardware_homedepot_p3,24,93,96,turning,Small Diameter,door lever handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_049,home_bedroom,38,105,117,picking up,Prismatic 2 Finger,USB flash drive,electronics,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_064,hardware_homedepot_p3,36,58,70,placing,Small Diameter,black metal door pull handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_68,hardware_homedepot_p4,45,108,113,placing,Prismatic 2 Finger,plastic garden edging fence panel,construction material,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_227,office_ml_p1,8,36,45,touching,Tip Pinch,disinfecting wipes canister,cleaning item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_226,office_ml_p2,7,12,72,turning,Tip Pinch,monitor mount tightening knob,knob,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_09,hardware_homedepot_p1,11,79,83,picking up,Prismatic 2 Finger,plastic step stool,unknown object,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_152,office_ml_p2,35,41,50,picking up,Prismatic 2 Finger,USB adapter,electronics,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_03,fablab_ml_p2,10,13,38,lowering,Medium Wrap,miter saw handle,power tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_157,hardware_homedepot_p5,8,10,53,inspecting,Medium Wrap,long-handled scrubber,cleaning item,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_083,hardware_homedepot_p2,6,12,32,pressing,Index Finger Extension,shelf display test button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_031,office_csail_p2,24,98,102,moving,Palmar,computer mouse,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_06,hardware_homedepot_p1,29,103,105,picking up,Fixed Hook,folding step stool,tool,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_133,grocery_target_p1,33,63,70,placing,Prismatic 3 Finger,woven wicker basket,container,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_187,office_ml_p2,38,164,176,picking up,Medium Wrap,VR headset,AR/VR device,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_257,office_ml_p2,27,55,64,placing,Medium Wrap,disinfecting wipes canister,cleaning item,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_052,home_kitchen_p1,101,135,145,placing,Prismatic 2 Finger,plastic packaged food tray,packaged food,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_33,grocery_tj,84,91,105,grasping,Tip Pinch,mesh bag of avocados,fruit,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_168,office_ml_p1,35,151,152,pressing,Precision Sphere,green mesh stress ball,ball,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_38,eat_ygf_p2,147,334,344,picking up,Tripod Variation,chopsticks,utensil,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_02,home_kitchen_p2,24,49,59,screwing,Small Diameter,glass jar lid,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_127,hardware_homedepot_p5,7,14,20,pulling,Medium Wrap,oven door handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_36,eat_ygf_p2,107,148,149,moving,Palmar,ceramic curry bowl,bowl,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_312,office_ml_p1,7,13,59,plugging in,Prismatic 2 Finger,USB cable plug,plug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_29,grocery_plant,66,211,222,feeling,Palmar,plush teddy bear,toy,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_108,home_kitchen_p1,114,144,145,holding,Medium Wrap,Instant Pot lid handle,appliance,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_022,grocery_target_p1,6,10,35,picking up,Small Diameter,glass measuring cup with red handle,cup,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_083,hardware_homedepot_p5,9,50,55,pulling,Prismatic 2 Finger,cabinet door pull handle,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_096,office_ml_p1,8,13,42,placing,Tip Pinch,small cardboard box,box,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_35,grocery_target_p2,5,10,37,picking up,Prismatic 3 Finger,Pennzoil motor oil bottle,bottle,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_287,office_ml_p1,17,46,46,placing,Prismatic 2 Finger,round mint/gum tin,packaged food,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_058,hardware_homedepot_p3,30,61,62,examining,Small Diameter,door pull handle (display sample),handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_35,home_kitchen_p2,5,14,77,stirring,Prismatic 2 Finger,teaspoon,cutlery,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_014,grocery_target_p1,36,53,56,picking up,Lateral,packaged kitchen turner/spatula,utensil,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_144,office_ml_p1,9,14,26,holding,Prismatic 3 Finger,pink toy cup,toy,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_60,grocery_tj,219,255,266,picking up,Prismatic 2 Finger,bag of spaghetti,packaged food,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_07,eat_ygf_p2,64,123,131,adjusting,Index Finger Extension,chopsticks,utensil,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_62,grocery_tj,36,126,131,picking up,Prismatic 2 Finger,spice grinder bottle,bottle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_025,office_ml_p1,12,14,63,unfolding,Tip Pinch,toolkit cover flap,toolbox,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_084,grocery_target_p1,26,45,47,lifting,Fixed Hook,water bottle carry loop,bottle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_040,home_bedroom,6,46,50,placing,Small Diameter,blue-and-white marker,marker,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_026,office_ml_p1,23,59,59,pressing,Palmar,precision screwdriver bit kit case,toolbox,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_008,office_ml_p2,39,50,60,unplugging,Tip Pinch,USB cable plug,plug,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_38,fablab_ml_p2,53,94,107,pulling,Fixed Hook,tool chest drawer handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_00,grocery_tj,70,97,101,pointing,Index Finger Extension,shelf price label for apple juice,paper,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_214,office_ml_p1,5,12,24,spraying,Small Diameter,whiteboard cleaner aerosol can,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_134,home_kitchen_p1,37,61,61,pulling,Lateral,kitchen cabinet door,cabinet,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_109,hardware_homedepot_p5,20,38,42,turning,Precision Disk,stove burner control knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_18,eat_ygf_p2,97,135,153,serving,Prismatic 2 Finger,stainless serving tongs,utensil,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_79,fablab_ml_p2,123,157,162,pulling,Fixed Hook,trash can side handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_32,hardware_homedepot_p4,97,197,205,placing,Light Tool,Ryobi compact chainsaw (display unit),power tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_068,hardware_homedepot_p5,7,13,24,pulling,Small Diameter,refrigerator freezer drawer handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_076,hardware_homedepot_p5,25,55,68,lifting,Medium Wrap,oven door handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_03,grocery_plant,35,109,110,adjusting,Tip Pinch,hanging planter hook,hardware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_165,office_ml_p1,53,107,121,picking up,Tip Pinch,small yellow toy figure,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_026,hardware_homedepot_p5,88,129,130,pushing,Ventral,tall gray cabinet door,cabinet,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_24,grocery_target_p2,35,84,87,picking up,Medium Wrap,bubble wrap roll,unidentifiable material,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_020,office_ml_p1,64,151,162,placing,Medium Wrap,disinfecting wipes canister,cleaning item,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_054,office_csail_p2,28,48,54,pulling,Tip Pinch,aluminum beverage can pull tab,can,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_039,office_csail_p2,7,10,54,sliding,Palmar,anti-static electronics bag,package,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_31,grocery_tj,164,208,220,placing,Tip Pinch,bag of peaches,fruit,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_39,grocery_target_p2,28,120,132,holding,Small Diameter,automotive fluid bottle (blue with yellow cap),bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_037,hardware_homedepot_p3,20,46,47,pressing,Index Finger Extension,door lock display button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_187,home_kitchen_p1,41,62,63,grasping,Tip Pinch,multi-cooker lid handle,handle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_19,eat_mcdonalds,31,89,94,unfolding,Tip Pinch,paper takeout bag,bag,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_049,home_kitchen_p1,9,12,57,pressing,Precision Disk,small push-button switch with green indicator,button,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_74,fablab_ml_p2,266,477,477,turning,Small Diameter,vise handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_070,grocery_target_p1,9,12,32,picking up,Tip Pinch,lamp power plug,plug,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_32,eat_ygf_p2,81,144,145,picking up,Writing Tripod,chopsticks,utensil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_308,office_ml_p1,26,46,46,typing,Index Finger Extension,compact wireless keyboard,keyboard,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_110,office_ml_p2,25,37,42,moving,Prismatic 2 Finger,plastic stacking chair,chair,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_13,fablab_ml_p3,139,398,405,placing,Ring,red-handled scissors,hand tool,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_34,eat_mcdonalds,88,107,110,adjusting,Tip Pinch,drinking straw in plastic cup,utensil,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_127,hardware_homedepot_p3,11,14,33,pointing,Index Finger Extension,cordless power tool handle (yellow DeWalt display),power tool,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_198,office_ml_p2,45,166,173,pressing,Index Finger Extension,desktop computer power button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_045,office_csail_p2,36,58,59,pulling,Lateral,keyboard tray handle,handle,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_21,home_kitchen_p3,23,39,46,placing,Tip Pinch,espresso shot glass,drinkware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_178,office_ml_p1,37,84,90,pressing,Index Finger Extension,small yellow toy piece,toy,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_110,hardware_homedepot_p5,34,41,50,turning,Prismatic 2 Finger,stove burner control knob,knob,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_04,eat_ygf_p2,71,131,133,eating,Writing Tripod,black chopsticks,utensil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_01,eat_ygf_p2,55,83,87,picking up,Writing Tripod,chopsticks,utensil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_51,fablab_ml_p1,40,115,116,removing,Prismatic 3 Finger,power tool battery pack,component,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_006,office_ml_p1,5,8,29,pushing,Palmar,office chair,chair,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_43,eat_mcdonalds,31,39,45,removing,Tip Pinch,plastic drink cup lid,drinkware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_099,office_ml_p2,37,52,53,removing,Prismatic 2 Finger,green-and-white paperback book,book,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_038,hardware_homedepot_p5,25,94,101,pulling,Fixed Hook,kitchen drawer handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_305,office_ml_p1,31,46,55,pressing,Palmar,computer mouse,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_026,home_bedroom,27,58,70,pulling,Small Diameter,orange chair backrest,chair,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_238,office_ml_p2,32,43,51,pressing,Palmar,open book,book,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_267,office_ml_p1,34,45,47,picking up,Prismatic 2 Finger,USB flash drive,electronics,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_32,grocery_tj,12,13,103,picking up,Tip Pinch,bag of oranges,fruit,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_160,home_kitchen_p1,25,42,50,pulling,Small Diameter,refrigerator door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_05,home_kitchen_p3,33,52,55,tightening,Tip Pinch,zip tie on wire shelf post,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_000,grocery_target_p1,62,105,106,pointing,Index Finger Extension,pizza cutter (packaged),utensil,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_14,home_kitchen_p2,77,107,111,grasping,Small Diameter,kitchen tongs,utensil,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_054,hardware_homedepot_p2,51,62,67,picking up,Prismatic 2 Finger,tool bag handle,bag,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_26,hardware_homedepot_p1,49,65,71,pulling,Fixed Hook,expandable barrier ring handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_46,hardware_homedepot_p4,27,51,54,sliding,Parallel Extension,brown paper bag,bag,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_038,office_csail_p2,27,61,69,pressing,Extension Type,mechanical keyboard,keyboard,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_92,fablab_ml_p2,65,92,106,placing,Prismatic 4 Finger,perforated lattice block (brick-like),construction material,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_61,grocery_tj,100,165,175,placing,Small Diameter,spice grinder bottle,bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_089,home_bedroom,25,96,104,placing,Small Diameter,soda can,can,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_23,hardware_homedepot_p1,52,67,78,picking up,Prismatic 2 Finger,foam insulation piece,construction material,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_057,grocery_target_p1,63,84,86,pushing,Index Finger Extension,small wicker basket,container,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_085,home_bedroom,22,87,90,picking up,Light Tool,litter picker grabber handle,hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_084,office_ml_p1,27,37,41,picking up,Tip Pinch,wrapped candy,snack,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_037,home_kitchen_p1,48,87,93,pulling,Tip Pinch,storage cart drawer knob,handle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_142,hardware_homedepot_p5,50,82,90,adjusting,Tip Pinch,crystal cube pendant light,light,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_39,home_kitchen_p2,5,13,175,holding,Prismatic 2 Finger,ceramic mug,mug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_065,hardware_homedepot_p3,30,35,39,inspecting,Prismatic 3 Finger,door pull handle sample,handle,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_038,hardware_homedepot_p3,22,38,43,turning,Sphere 3 Finger,brass door knob on display,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_33,hardware_homedepot_p4,30,58,61,grasping,Medium Wrap,battery chainsaw handle,power tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_074,office_ml_p1,9,14,80,picking up,Precision Sphere,small cartoon toy ball,toy,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_123,hardware_homedepot_p5,34,126,140,turning,Precision Disk,stove burner knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_24,home_kitchen_p2,46,229,243,stirring,Tripod,metal teaspoon,cutlery,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_36,fablab_ml_p1,24,95,108,picking up,Small Diameter,yellow-handled screwdriver,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_02,home_kitchen_p3,6,13,48,twisting,Small Diameter,flashlight,light,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_068,office_ml_p1,23,57,59,pressing,Index Finger Extension,compact wireless keyboard (round-key style),keyboard,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_028,office_csail_p2,29,54,62,pressing,Index Finger Extension,numeric keypad,keyboard,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_142,office_ml_p1,21,47,53,placing,Tip Pinch,pink board-game pawn,game piece,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_011,hardware_homedepot_p5,34,53,58,holding,Small Diameter,toilet plunger,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_107,home_kitchen_p1,6,14,39,pulling,Prismatic 2 Finger,countertop appliance door handle,appliance,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_009,hardware_homedepot_p2,12,14,66,picking up,Prismatic 3 Finger,light switch wall plate (packaged),hardware,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_293,office_ml_p1,5,31,38,holding,Prismatic 2 Finger,power plug adapter,plug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_243,office_ml_p2,25,44,47,picking up,Prismatic 2 Finger,blue pen,pen,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_156,office_ml_p1,10,14,58,picking up,Tip Pinch,small multicolored toy block,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_252,office_ml_p1,5,14,31,picking up,Prismatic 3 Finger,power adapter (charger brick),charger,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_35,grocery_tj,80,119,132,picking up,Precision Sphere,lemon,fruit,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_25,home_kitchen_p2,5,14,71,stirring,Light Tool,teaspoon,cutlery,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_87,fablab_ml_p2,31,322,324,moving,Small Diameter,office chair,chair,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_113,office_csail_p1,5,12,54,holding,Medium Wrap,aerosol spray can,can,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_28,fablab_ml_p1,86,102,110,placing,Medium Wrap,brass mallet,hammer,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_259,office_ml_p2,9,70,80,placing,Palmar,hardcover book,book,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_001,grocery_target_p1,50,59,63,removing,Prismatic 2 Finger,kitchen tongs,utensil,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p1.hdf5,demo_00,eat_ygf_p1,5,15,26,picking up,Small Diameter,plastic tumbler with lid,cup,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_091,grocery_target_p1,55,83,83,inspecting,Tip Pinch,napkin holder,container,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_082,hardware_homedepot_p3,88,109,115,pulling,Small Diameter,display door pull handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_020,office_csail_p1,12,22,54,picking up,Medium Wrap,plastic tumbler with straw,cup,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_76,fablab_ml_p2,58,105,106,switching on,Index Finger Extension,power strip rocker switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_36,grocery_plant,45,113,119,picking up,Tip Pinch,teal star ornament pick,unknown object,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_240,office_ml_p2,28,38,48,pressing,Index Finger Extension,monitor power button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_016,office_ml_p2,6,10,22,moving,Palmar,chair seat,chair,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_49,fablab_ml_p2,40,165,174,picking up,Small Diameter,spray paint can,can,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_006,hardware_homedepot_p2,58,164,178,holding,Small Diameter,yellow step ladder handrail,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_057,office_csail_p2,6,12,32,pushing,Palmar,side table,table,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_63,grocery_plant,103,113,127,placing,Tip Pinch,straw wreath,rope,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_032,office_ml_p2,32,99,111,placing,Power Sphere,tennis ball,ball,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_45,grocery_tj,28,64,69,touching,Index Finger Extension,sliced deli meat package,packaged food,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_24,grocery_plant,95,377,383,pointing,Index Finger Extension,product price tag on driftwood,paper,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_14,fablab_ml_p2,9,13,31,picking up,Prismatic 3 Finger,3D-printed lattice cube,component,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_54,grocery_tj,166,197,211,picking up,Precision Sphere,yellow squash,vegetable,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_122,home_bedroom,20,39,46,adjusting,Tip Pinch,belt on jeans waistband,belt,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_39,fablab_ml_p2,47,88,95,sliding,Small Diameter,tool chest drawer handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_35,fablab_ml_p1,82,307,321,adjusting,Index Finger Extension,screwdriver in wall rack,hand tool,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_146,hardware_homedepot_p5,60,100,105,placing,Precision Sphere,frosted glass light shade,light,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_28,grocery_tj,30,76,83,picking up,Sphere 3 Finger,persimmon,fruit,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_077,office_ml_p1,34,40,54,picking up,Prismatic 2 Finger,round mint container,packaged food,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_32,eat_mcdonalds,35,66,71,adjusting,Tip Pinch,plastic straw in soda cup,utensil,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_256,office_ml_p1,25,53,53,sliding,Tip Pinch,printed document,paper,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_317,office_ml_p1,8,13,43,pushing,Palmar,office chair backrest,chair,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_027,hardware_homedepot_p3,33,48,51,pressing,Index Finger Extension,display door knob,knob,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_20,hardware_homedepot_p1,34,54,59,picking up,Prismatic 2 Finger,triangular foam gutter insert,construction material,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_047,office_csail_p1,35,55,60,turning,Prismatic 2 Finger,espresso machine steam/control knob,knob,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_103,hardware_homedepot_p3,6,11,87,picking up,Small Diameter,pick mattock,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_11,hardware_homedepot_p1,5,12,31,picking up,Prismatic 4 Finger,folding step stool,tool,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_06,fablab_ml_p1,5,9,45,picking up,Prismatic 2 Finger,center punch,hand tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_49,eat_mcdonalds,24,52,53,grasping,Tip Pinch,wrapped burger,food,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_131,home_bedroom,8,10,24,picking up,Prismatic 3 Finger,beige shorts (garment) from a laundry pile,clothing item,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_091,office_csail_p1,5,13,88,inspecting,Small Diameter,flashlight,light,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_48,grocery_tj,9,14,41,picking up,Tip Pinch,packaged salami stick,meat,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_282,office_ml_p1,26,42,44,placing,Power Disk,small round tin,container,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_209,office_ml_p2,23,59,66,pulling,Medium Wrap,glass door pull handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_117,hardware_homedepot_p3,26,33,41,grasping,Small Diameter,hatchet,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_06,home_kitchen_p2,29,54,56,pressing,Index Finger Extension,sink soap dispenser pump,cleaning item,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_26,fablab_ml_p2,67,98,106,placing,Prismatic 3 Finger,metal mallet with cylindrical head,hammer,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_081,office_ml_p2,56,155,162,pushing,Parallel Extension,large-leaf potted plant,plant,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_186,office_ml_p1,46,73,79,pressing,Index Finger Extension,large pushbutton switch,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_061,office_csail_p2,63,104,105,writing,Writing Tripod,dry-erase marker,marker,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_209,office_ml_p1,9,13,41,picking up,Prismatic 3 Finger,pack of sticky page flags,paper,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_296,office_ml_p1,46,55,64,holding,Prismatic 2 Finger,USB power adapter,charger,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_59,hardware_homedepot_p4,5,9,24,turning,Prismatic 2 Finger,grill control knob,knob,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_082,home_bedroom,48,64,65,picking up,Tip Pinch,clear plastic bag,bag,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_171,office_ml_p2,187,318,322,pulling,Tip Pinch,window blind pull cord,rope,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_08,eat_mcdonalds,5,11,21,grasping,Tip Pinch,McDonald's paper takeout bag,bag,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_113,office_ml_p2,22,43,44,turning,Lateral,file cabinet key,key,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_111,hardware_homedepot_p5,5,12,37,turning,Small Diameter,stove control knob,knob,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_17,fablab_ml_p3,47,81,94,placing,Palmar,tape measure,measuring tool,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_31,home_kitchen_p2,31,50,52,placing,Writing Tripod,metal spoon,cutlery,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_111,office_csail_p2,28,40,42,turning,Medium Wrap,balcony door lever handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_090,home_kitchen_p1,10,13,23,holding,Small Diameter,handheld milk frother,appliance,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_17,home_kitchen_p2,26,40,54,twisting,Prismatic 3 Finger,metal jar lid,container,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_047,home_kitchen_p1,18,77,134,placing,Power Sphere,white ceramic bowl,bowl,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_013,office_ml_p1,32,83,93,pressing,Palmar,Leitz cable management box lid,box,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_46,grocery_tj,7,13,97,picking up,Prismatic 2 Finger,Oven roasted turkey breast deli meat package,meat,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_025,hardware_homedepot_p3,20,34,46,flipping,Index Finger Extension,sliding door lock lever,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_217,office_ml_p2,39,67,77,pressing,Small Diameter,TV remote control,remote,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_114,hardware_homedepot_p5,21,36,41,turning,Tip Pinch,stove control knob,knob,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_107,office_ml_p1,30,46,52,placing,Prismatic 2 Finger,roll of black electrical tape,tape,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_115,office_csail_p1,8,11,94,picking up,Prismatic 3 Finger,smartphone with ring stand,phone,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_045,hardware_homedepot_p5,29,91,92,pulling,Fixed Hook,oven door handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_79,grocery_target_p2,19,54,63,inspecting,Tip Pinch,insulated water bottle cap,bottle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_43,fablab_ml_p1,30,172,183,placing,Small Diameter,blue-handled screwdriver,screwdriver,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_095,home_bedroom,9,10,23,pulling,Tip Pinch,teal duvet blanket,fabric,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_097,office_csail_p2,7,13,42,spraying,Small Diameter,compressed air duster can,can,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_69,fablab_ml_p1,66,119,124,placing,Small Diameter,brass mallet,hammer,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_01,grocery_tj,99,149,150,placing,Small Diameter,organic lemonade bottle,bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_014,hardware_homedepot_p2,80,99,101,picking up,Prismatic 2 Finger,green metal garden fence post,construction material,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_017,office_csail_p1,46,75,75,pushing,Palmar,cabinet door,cabinet,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_210,office_ml_p2,20,31,43,pushing,Palmar,glass door pull handle,handle,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_049,office_csail_p1,38,55,65,pulling,Fixed Hook,mini fridge door handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_023,office_csail_p1,63,90,96,tapping,Index Finger Extension,small flower-shaped desk item,unknown object,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_094,office_ml_p1,406,567,574,placing,Prismatic 2 Finger,multi-colored modeling clay pack,package,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_123,hardware_homedepot_p3,58,103,115,holding,Small Diameter,claw hammer,hammer,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_096,grocery_target_p1,26,93,96,touching,Tip Pinch,amber stemmed glass goblet,glass,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_029,grocery_target_p1,41,69,73,pressing,Power Disk,salad spinner pump knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_40,eat_mcdonalds,8,13,117,holding,Small Diameter,soft-serve ice cream cone,food,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_103,grocery_target_p1,47,66,74,touching,Prismatic 2 Finger,small wooden cutting board with handle,utensil,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_105,hardware_homedepot_p5,5,10,56,pulling,Small Diameter,microwave oven door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_21,hardware_homedepot_p1,7,10,37,picking up,Prismatic 2 Finger,gutter foam insert,construction material,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_13,home_kitchen_p2,34,61,62,pulling,Fixed Hook,kitchen drawer handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_133,office_ml_p1,18,73,83,pressing,Palmar,computer mouse,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_219,office_ml_p1,187,241,248,wiping,Ventral,whiteboard surface,unknown object,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_160,office_ml_p1,44,65,76,placing,Tip Pinch,plastic fidget cube block,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_041,home_bedroom,49,124,128,typing,Index Finger Extension,computer keyboard,keyboard,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_008,grocery_target_p1,38,104,115,touching,Tip Pinch,"can opener (OXO, packaged on pegboard)",hand tool,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_05,fablab_ml_p3,95,140,140,adjusting,Tip Pinch,combination square,measuring tool,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_18,hardware_homedepot_p1,5,111,120,pushing,Medium Wrap,shopping cart handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_050,office_csail_p1,9,12,24,removing,Small Diameter,soda can,can,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_218,office_ml_p1,113,145,145,writing,Writing Tripod,dry-erase marker,marker,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_23,hardware_homedepot_p4,104,178,192,placing,Small Diameter,sledgehammer,hammer,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_108,office_csail_p2,28,35,42,grasping,Tip Pinch,potted plant stem,plant,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_119,hardware_homedepot_p3,124,188,191,dropping,Medium Wrap,hatchet (small axe),hand tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_127,office_ml_p1,18,62,69,pulling,Tip Pinch,USB cable,cable,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_27,hardware_homedepot_p4,5,113,115,adjusting,Tip Pinch,hook-and-loop wrist strap,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_17,hardware_homedepot_p4,5,9,74,picking up,Small Diameter,wood-handled garden shovel,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_067,hardware_homedepot_p3,9,12,22,feeling,Tip Pinch,door pull handle sample,handle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_007,hardware_homedepot_p2,39,104,117,picking up,Prismatic 3 Finger,white trim/molding sample strips,construction material,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_059,hardware_homedepot_p3,38,50,63,grasping,Small Diameter,door pull handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_53,grocery_plant,47,83,90,adjusting,Tip Pinch,plant hanger chain and hook,hardware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_62,grocery_plant,5,6,28,adjusting,Tip Pinch,potted plant stems,plant,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_78,grocery_target_p2,6,14,54,adjusting,Tip Pinch,insulated water bottle cap/loop,bottle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_45,fablab_ml_p3,5,14,220,holding,Light Tool,hook pick tool,hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_149,hardware_homedepot_p5,26,36,46,picking up,Small Diameter,extendable microfiber duster,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_042,hardware_homedepot_p5,34,105,107,pushing,Palmar,refrigerator freezer drawer handle,handle,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_060,hardware_homedepot_p2,50,88,101,picking up,Prismatic 3 Finger,orange carpenter pencil,pencil,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_229,office_ml_p1,31,81,83,pulling,Tip Pinch,paper shopping bag with cord handle,bag,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_64,grocery_target_p2,44,73,85,pressing,Sphere 3 Finger,small purple rubber ball,ball,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_89,fablab_ml_p2,7,14,89,pulling,Prismatic 3 Finger,oriented strand board (OSB) sheet,construction material,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_173,office_ml_p1,7,12,30,placing,Tip Pinch,plastic fidget chain (green-and-orange segmented toy),toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_119,hardware_homedepot_p5,31,38,51,turning,Precision Disk,stove control knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_70,grocery_target_p2,47,68,78,pressing,Adducted Thumb,try-me button on packaged light-up toy,button,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_00,fablab_ml_p3,47,87,92,placing,Tip Pinch,blue metal ruler/straightedge,measuring tool,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_043,home_bedroom,29,54,58,dropping,Prismatic 3 Finger,small plastic bottle,bottle,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_028,grocery_target_p1,60,125,125,touching,Index Finger Extension,kitchen scrub brush,brush,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_004,hardware_homedepot_p3,29,98,98,pulling,Small Diameter,sliding glass door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_15,grocery_plant,78,105,109,pushing,Medium Wrap,shopping cart handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_245,office_ml_p1,6,8,22,picking up,Light Tool,spring clamp,hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_022,hardware_homedepot_p5,42,74,83,sliding,Small Diameter,sliding shower door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_006,office_csail_p1,10,13,19,pushing,Parallel Extension,lower cabinet drawer,drawer,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_46,fablab_ml_p1,165,249,259,picking up,Light Tool,pair of pliers,hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_280,office_ml_p1,26,57,58,picking up,Medium Wrap,orca plush dog toy,pet item,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_106,office_csail_p1,43,66,70,picking up,Tip Pinch,beige jacket,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_077,hardware_homedepot_p5,20,75,86,pushing,Extension Type,upper cabinet door,cabinet,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_132,office_ml_p1,27,77,78,tapping,Index Finger Extension,small yellow star-shaped toy,toy,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_81,grocery_target_p2,78,147,157,picking up,Small Diameter,insulated water bottle (Hydro Flask-style),bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_159,home_kitchen_p1,56,89,95,placing,Power Disk,instant noodle cup,packaged food,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_072,home_bedroom,29,47,52,probing,Prismatic 3 Finger,open cardboard box with miscellaneous items,box,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_06,eat_ygf_p2,139,187,191,holding,Writing Tripod,chopsticks,utensil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_193,office_ml_p1,24,34,43,twisting,Prismatic 3 Finger,Rubik's cube,toy,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_040,office_ml_p2,8,12,19,unscrewing,Small Diameter,small glass jar cap,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_120,hardware_homedepot_p3,22,41,47,holding,Small Diameter,hatchet,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_026,home_kitchen_p1,11,14,57,pulling,Fixed Hook,kitchen drawer handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_151,office_ml_p2,63,153,157,grasping,Small Diameter,red ceramic mug,mug,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_212,office_ml_p2,6,14,34,pushing,Palmar,glass door pull handle,handle,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_72,grocery_tj,146,227,236,picking up,Tip Pinch,bag of dog treats,pet item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_053,home_kitchen_p1,78,171,173,placing,Tip Pinch,small glass plate with a folded tortilla,plate,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_18,grocery_tj,31,93,97,picking up,Precision Sphere,tomato,vegetable,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_270,office_ml_p2,54,208,209,picking up,Prismatic 3 Finger,VR headset,AR/VR device,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_273,office_ml_p1,54,90,100,placing,Medium Wrap,orca plush toy,toy,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_081,office_csail_p1,45,389,391,pressing,Index Finger Extension,fan power button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_083,home_bedroom,70,114,115,tightening,Tip Pinch,black nylon strap with metal buckle,belt,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_14,grocery_target_p2,8,13,46,pressing,Index Finger Extension,step trash can pedal,container,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_181,hardware_homedepot_p5,26,58,58,pulling,Tip Pinch,foam packing roll,unidentifiable material,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_124,office_ml_p2,90,135,139,pushing,Palmar,mini fridge door,refrigerator,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_203,office_ml_p2,26,82,84,pushing,Parallel Extension,cabinet drawer,drawer,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_172,home_kitchen_p1,241,315,317,adjusting,Prismatic 2 Finger,white ceramic bowl,bowl,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_40,fablab_ml_p3,5,13,23,adjusting,Prismatic 2 Finger,self-healing cutting mat,tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_095,home_kitchen_p1,5,14,59,pinching,Tip Pinch,palm frond leaf,leaf,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_137,home_bedroom,81,203,203,holding,Small Diameter,Nintendo Switch Joy-Con controller with strap,game controller,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_271,office_ml_p1,20,49,49,switching on,Index Finger Extension,power strip rocker switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_084,office_ml_p2,6,11,38,moving,Small Diameter,potted plant stem,plant,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_103,office_ml_p1,113,291,296,placing,Prismatic 3 Finger,mini puzzle cube (Rubik’s-style),toy,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_62,fablab_ml_p2,142,836,849,picking up,Tip Pinch,small plastic suction cup,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_095,office_csail_p1,25,44,51,pulling,Fixed Hook,office chair backrest,chair,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_150,office_ml_p1,43,74,76,placing,Tip Pinch,yellow plastic stick-figure toy,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_128,hardware_homedepot_p5,20,59,68,pulling,Medium Wrap,oven door handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_08,fablab_ml_p3,184,537,538,picking up,Light Tool,flat paintbrush,brush,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_063,office_ml_p2,28,36,44,picking up,Prismatic 3 Finger,digital multimeter,measuring tool,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_166,office_ml_p2,33,62,74,typing,Parallel Extension,computer keyboard,keyboard,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_007,home_kitchen_p1,6,9,115,pressing,Index Finger Extension,espresso machine button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_085,hardware_homedepot_p2,6,14,86,picking up,Prismatic 3 Finger,small boxed trailer hitch accessory,package,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_046,office_csail_p1,9,12,136,turning,Small Diameter,espresso machine portafilter handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_105,office_csail_p2,73,132,133,tightening,Prismatic 2 Finger,height-adjustment knob on a desk-mounted pole stand,knob,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_179,office_ml_p2,216,296,301,pulling,Prismatic 2 Finger,window blind pull cord,rope,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_006,home_bedroom,5,13,23,picking up,Tip Pinch,pair of jeans (lifted by the waistband/belt),clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_71,hardware_homedepot_p4,60,73,78,picking up,Prismatic 2 Finger,metal wire basket,container,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_117,office_ml_p2,24,51,51,carrying,Small Diameter,blue plastic bin,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_022,hardware_homedepot_p2,52,83,90,picking up,Light Tool,plastic putty knife (scraper),hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_41,fablab_ml_p2,65,195,201,pulling,Tip Pinch,small parts organizer drawer,drawer,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_04,home_kitchen_p3,35,48,50,pressing,Index Finger Extension,air fryer power button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_302,office_ml_p1,27,38,42,pressing,Palmar,wired computer mouse,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_30,grocery_plant,56,86,91,touching,Palmar,teddy bear plush toy,toy,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_123,grocery_target_p1,6,11,28,flipping,Tip Pinch,small area rug,fabric,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_016,home_kitchen_p1,11,12,92,turning,Precision Disk,espresso machine control knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_08,eat_ygf_p2,29,101,108,scooping,Small Diameter,serving spoon,utensil,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_65,hardware_homedepot_p4,6,14,19,picking up,Small Diameter,garden hose spray nozzle,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_81,fablab_ml_p2,5,53,64,pulling,Medium Wrap,trash can handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_13,home_kitchen_p3,23,45,50,turning,Precision Disk,espresso machine control knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_300,office_ml_p1,6,11,39,pointing,Index Finger Extension,desk mat (mouse pad),fabric,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_098,hardware_homedepot_p5,20,74,77,pushing,Small Diameter,refrigerator door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_065,office_ml_p2,33,62,63,placing,Light Tool,orange utility knife (box cutter),knife,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_197,office_ml_p1,26,54,55,twisting,Prismatic 3 Finger,3x3 puzzle cube,toy,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_101,home_kitchen_p1,9,14,45,spraying,Medium Wrap,spray bottle of cleaner,cleaning item,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_69,grocery_tj,108,147,160,placing,Palmar Pinch,plastic deli tub,packaged food,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_157,office_ml_p1,30,70,70,placing,Tip Pinch,small plastic cube toy,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_017,grocery_target_p1,25,39,41,grasping,Tip Pinch,plastic squeeze bottle,bottle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_051,hardware_homedepot_p3,23,44,50,touching,Tip Pinch,black door pull sample on display card,handle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_091,home_kitchen_p1,40,69,79,pressing,Index Finger Extension,espresso machine power/brew switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_044,hardware_homedepot_p3,21,48,50,touching,Parallel Extension,door knob sample,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_134,hardware_homedepot_p5,27,64,64,pulling,Medium Wrap,refrigerator door handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_41,fablab_ml_p1,8,13,162,picking up,Writing Tripod,wooden pencil,pencil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_07,fablab_ml_p3,26,54,64,turning,Prismatic 2 Finger,bench vise handle,tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_12,fablab_ml_p1,58,85,87,adjusting,Tip Pinch,hanging scissors,scissors,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_57,hardware_homedepot_p4,27,56,57,turning,Tip Pinch,griddle control knob,knob,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_27,grocery_tj,6,9,57,picking up,Precision Sphere,persimmon,fruit,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_167,home_kitchen_p1,32,40,44,pressing,Index Finger Extension,sink-mounted push button (garbage disposal air switch),button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_044,hardware_homedepot_p5,36,101,102,pulling,Prismatic 2 Finger,cabinet door handle,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_102,home_kitchen_p1,6,8,26,wiping,Palmar,white cleaning sponge,cleaning item,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_187,office_ml_p1,40,87,88,pressing,Index Finger Extension,orange desktop tape dispenser with white tape roll,tape,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_180,office_ml_p2,73,135,136,pulling,Tip Pinch,window blind pull cord,rope,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_264,office_ml_p2,23,33,45,pressing,Adducted Thumb,hand sanitizer pump,toiletry,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_009,office_ml_p1,31,166,172,moving,Palmar,wired computer mouse,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_043,hardware_homedepot_p3,6,8,47,pressing,Index Finger Extension,lock display 'Try Me' push button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_125,home_kitchen_p1,133,334,336,pressing,Index Finger Extension,wrapped food on plate,meal,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_072,office_ml_p1,24,37,43,adjusting,Tip Pinch,foldable laptop/tablet stand,hardware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_041,office_csail_p2,30,45,58,pinching,Tip Pinch,snake plant leaf,plant,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_55,grocery_plant,12,14,28,grasping,Tripod,painted ceramic fish-shaped planter,container,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_16,eat_mcdonalds,25,56,57,grasping,Palmar Pinch,wrapped burger sandwich,food,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_03,eat_mcdonalds,54,75,79,inserting,Tip Pinch,drinking straw,utensil,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_284,office_ml_p1,31,71,71,holding,Precision Disk,round mint tin,packaged food,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_067,office_csail_p1,216,249,256,placing,Small Diameter,watering can,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_02,fablab_ml_p1,5,14,72,picking up,Prismatic 3 Finger,steel block from parts organizer,hardware,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_095,hardware_homedepot_p3,29,55,59,placing,Small Diameter,red plastic gas can,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_45,fablab_ml_p2,6,11,160,pulling,Prismatic 2 Finger,small parts organizer drawer,drawer,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_077,home_kitchen_p1,11,14,57,pulling,Fixed Hook,kitchen drawer handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_124,home_bedroom,22,48,60,picking up,Tip Pinch,pair of jeans,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_107,office_csail_p1,17,44,45,placing,Tip Pinch,tan coat,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_093,office_csail_p2,9,12,133,placing,Tip Pinch,coat,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_019,office_ml_p2,67,76,82,pressing,Index Finger Extension,computer monitor power button,monitor,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_112,office_csail_p1,6,13,43,picking up,Small Diameter,aerosol spray can with red straw nozzle,can,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_66,grocery_target_p2,92,132,144,picking up,Precision Sphere,mini basketball,ball,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_57,grocery_target_p2,29,53,67,inspecting,Tip Pinch,backpack zipper pull,zipper,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_034,hardware_homedepot_p2,60,71,84,pushing,Small Diameter,shopping cart handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_33,grocery_plant,8,13,59,picking up,Tripod,small potted cactus,plant,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_255,office_ml_p1,86,180,193,picking up,Tip Pinch,printed document page,paper,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_20,grocery_tj,6,7,46,detaching,Tip Pinch,plastic produce bag from roll dispenser,bag,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_025,office_csail_p2,11,132,136,pulling,Medium Wrap,collapsible wagon handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_065,grocery_target_p1,7,9,22,picking up,Precision Disk,puck tap light,light,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_034,office_csail_p1,85,121,130,pressing,Index Finger Extension,standing desk control panel button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_106,hardware_homedepot_p3,34,60,73,picking up,Small Diameter,floor scraper,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_33,home_kitchen_p2,13,14,55,picking up,Tip Pinch,dragon fruit slice,fruit,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_138,office_ml_p1,120,158,168,placing,Tip Pinch,orange star-shaped suction toy,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_313,office_ml_p1,22,69,71,pressing,Index Finger Extension,desktop PC power button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_038,grocery_target_p1,50,87,94,picking up,Tip Pinch,packaged kitchen utensil,utensil,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_02,eat_ygf_p2,5,13,69,picking up,Writing Tripod,chopsticks,cutlery,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_71,grocery_tj,6,9,108,picking up,Prismatic 2 Finger,red-lidded frozen food tub,packaged food,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_13,grocery_target_p2,29,46,52,pressing,Index Finger Extension,small white step trash can,container,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_11,grocery_tj,19,100,111,picking up,Tip Pinch,sourdough bread in plastic bag,bread,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_05,eat_ygf_p2,78,99,107,placing,Writing Tripod,chopsticks,utensil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_64,fablab_ml_p1,161,182,195,placing,Light Tool,aviation snips (tin snips),hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_079,hardware_homedepot_p5,24,74,84,pushing,Parallel Extension,kitchen cabinet door,cabinet,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_102,hardware_homedepot_p5,7,11,24,grasping,Prismatic 2 Finger,microwave door handle,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_38,grocery_plant,52,59,61,holding,Tip Pinch,small hanging ornament,unknown object,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_171,hardware_homedepot_p5,29,66,69,placing,Tip Pinch,plastic storage bin lid,container,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_227,office_ml_p2,33,47,61,adjusting,Tip Pinch,clip-on webcam,camera,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_68,fablab_ml_p2,48,85,87,removing,Small Diameter,adjustable wrench,wrench,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_32,home_kitchen_p3,8,13,41,eating,Writing Tripod,metal dining fork,cutlery,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_118,office_csail_p1,66,87,88,picking up,Small Diameter,soda can,can,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_085,office_ml_p2,32,69,74,placing,Small Diameter,toilet plunger,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_046,office_ml_p1,25,30,40,resting hand,Ventral,office chair armrest,chair,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_46,grocery_plant,5,13,59,picking up,Prismatic 2 Finger,small ceramic face planter,container,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_03,home_kitchen_p3,37,47,50,picking up,Prismatic 3 Finger,coffee tamper,hand tool,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_007,office_ml_p1,30,105,119,picking up,Prismatic 2 Finger,coiled black cable,cable,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_049,office_ml_p2,21,46,52,moving,Tip Pinch,disposable glove,glove,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_060,hardware_homedepot_p5,26,117,121,holding,Small Diameter,brass gooseneck kitchen faucet,faucet,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_200,office_ml_p1,100,284,284,placing,Prismatic 2 Finger,liquid motion timer,toy,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_76,fablab_ml_p1,6,11,49,picking up,Small Diameter,yellow-handled screwdriver,screwdriver,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_004,grocery_target_p1,7,14,37,picking up,Small Diameter,spring-loaded cookie/ice cream scoop,utensil,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_05,eat_mcdonalds,36,45,52,inserting,Prismatic 2 Finger,disposable drinking straw,utensil,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_066,office_ml_p1,10,13,22,moving,Medium Wrap,office chair,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_121,home_kitchen_p1,35,56,65,pulling,Fixed Hook,folding step stool handle,handle,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_020,office_csail_p2,22,31,32,moving,Tip Pinch,stool footrest ring,chair,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_076,home_bedroom,6,12,28,unfolding,Prismatic 2 Finger,cardboard product box,box,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_042,hardware_homedepot_p2,130,197,198,placing,Medium Wrap,handheld belt sander,power tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_180,hardware_homedepot_p5,28,116,120,pushing,Palmar,foam packing roll,construction material,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_35,hardware_homedepot_p4,29,58,71,grasping,Small Diameter,cordless leaf blower handle,power tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_023,hardware_homedepot_p3,29,88,95,turning,Index Finger Extension,sliding glass door lock lever,handle,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_41,grocery_tj,55,88,94,placing,Small Diameter,spray cleaner bottle,bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_029,office_ml_p1,52,113,121,adjusting,Prismatic 2 Finger,metal shelf bookend,hardware,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_130,hardware_homedepot_p5,25,41,47,turning,Precision Disk,stove control knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_85,hardware_homedepot_p4,46,87,94,rotating,Prismatic 2 Finger,brass ball valve lever,hardware,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_064,hardware_homedepot_p5,8,40,45,pulling,Medium Wrap,refrigerator door handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_155,office_ml_p1,26,39,51,moving,Prismatic 3 Finger,mini Rubik's-style puzzle cube,toy,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_096,office_ml_p2,5,12,90,moving,Medium Wrap,round padded stool,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_056,home_kitchen_p1,52,57,67,pressing,Extension Type,espresso machine start button,button,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_085,hardware_homedepot_p5,304,330,335,pushing,Palmar,front-load dryer door,appliance,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_119,office_ml_p1,179,485,498,placing,Prismatic 2 Finger,small cardboard box,box,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_19,hardware_homedepot_p4,29,59,72,pushing,Small Diameter,long-handled push broom/floor brush,cleaning item,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_003,hardware_homedepot_p3,5,9,49,picking up,Prismatic 3 Finger,vacuum crevice tool in blister pack,cleaning item,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_041,office_ml_p2,20,43,45,placing,Small Diameter,small stainless steel canister,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_207,office_ml_p1,25,38,48,picking up,Tripod,orange marker,marker,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_035,home_kitchen_p1,47,83,84,placing,Prismatic 2 Finger,small white saucer/plate,plate,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_171,office_ml_p1,25,35,44,grasping,Precision Sphere,green mesh stress ball,ball,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_63,fablab_ml_p2,193,451,455,sliding,Palmar,blue plastic parts bin,container,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_38,fablab_ml_p1,9,137,149,placing,Small Diameter,yellow-handled screwdriver,screwdriver,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_11,home_kitchen_p2,93,203,204,holding,Prismatic 2 Finger,ceramic mug with blue pattern,mug,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_027,hardware_homedepot_p5,25,61,74,pushing,Palmar,cabinet door,cabinet,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_109,grocery_target_p1,51,89,96,placing,Prismatic 3 Finger,woven storage basket,container,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_90,hardware_homedepot_p4,30,38,49,passing,Tip Pinch,blue permanent marker,marker,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_145,office_ml_p1,37,71,80,picking up,Tip Pinch,white charging cable,cable,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_12,fablab_ml_p2,12,14,52,grasping,Prismatic 2 Finger,tape dispenser,tape,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_062,office_ml_p2,37,42,54,pressing,Palmar,digital multimeter,measuring tool,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_099,grocery_target_p1,22,40,45,inspecting,Prismatic 3 Finger,wooden wall clock,unknown object,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_135,office_ml_p1,62,109,114,picking up,Tip Pinch,yellow butterfly-shaped clip,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_103,hardware_homedepot_p5,24,41,48,pulling,Small Diameter,microwave oven door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_079,office_ml_p2,5,10,27,moving,Prismatic 2 Finger,potted plant (black plastic pot),plant,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_031,office_csail_p1,91,132,137,typing,Index Finger Extension,mechanical keyboard,keyboard,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_11,hardware_homedepot_p4,102,210,219,placing,Medium Wrap,garden shovel,hand tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_025,office_ml_p2,37,56,57,pressing,Tip Pinch,monitor power button,button,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_032,hardware_homedepot_p3,42,79,82,turning,Prismatic 2 Finger,door latch lever,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_027,office_csail_p2,84,137,138,placing,Medium Wrap,plastic watering can,container,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_136,home_kitchen_p1,22,49,55,pulling,Tip Pinch,cabinet door knob,knob,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_205,office_ml_p2,35,55,56,pressing,Index Finger Extension,wall light switch panel,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_214,office_ml_p2,39,76,79,placing,Prismatic 4 Finger,TV remote control,remote,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_05,hardware_homedepot_p1,154,281,289,pressing,Index Finger Extension,small electronic sensor device with LEDs,sensor,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_189,office_ml_p2,29,54,66,picking up,Medium Wrap,neck massage pillow,wearable device,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_114,home_bedroom,27,105,107,folding,Palmar,light gray jeans,clothing item,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_178,hardware_homedepot_p5,25,34,38,pressing,Index Finger Extension,yellow plastic storage bin lid,container,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_12,grocery_plant,62,96,104,examining,Tip Pinch,air plant (Tillandsia),plant,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_27,fablab_ml_p3,41,54,61,pressing,Light Tool,aviation snips,hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_052,office_csail_p2,24,54,64,pushing,Palmar,cabinet door,cabinet,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_56,hardware_homedepot_p4,6,14,65,grasping,Small Diameter,grill lid handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_071,hardware_homedepot_p3,6,55,55,turning,Small Diameter,door lever handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_133,home_kitchen_p1,57,97,100,placing,Prismatic 3 Finger,plastic mixing bowl,bowl,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_32,grocery_plant,86,190,191,touching,Index Finger Extension,mini potted cactus decoration,plant,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_069,home_bedroom,30,53,58,picking up,Prismatic 2 Finger,small wooden block,game piece,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_216,office_ml_p2,75,112,118,pressing,Prismatic 4 Finger,TV remote control,remote,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_169,hardware_homedepot_p5,29,74,76,placing,Tip Pinch,plastic storage bin lid,container,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_082,office_csail_p1,25,65,65,holding,Small Diameter,collapsible fabric wagon/bin,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_115,office_ml_p2,39,62,66,pressing,Palmar,printed paper sheet,paper,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_081,hardware_homedepot_p5,25,61,70,pushing,Palmar,cabinet drawer,drawer,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_46,fablab_ml_p2,5,12,34,pulling,Small Diameter,yellow storage cabinet handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_17,grocery_tj,6,13,19,feeling,Index Finger Extension,Fuyu persimmon,fruit,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_025,hardware_homedepot_p2,116,164,178,cutting,Light Tool,safety box cutter,knife,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p1.hdf5,demo_20,fablab_ml_p1,165,482,493,placing,Small Diameter,rotary cutter,hand tool,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_091,office_ml_p1,139,167,169,pressing,Palmar,computer mouse,mouse,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_12,eat_mcdonalds,49,66,71,picking up,Small Diameter,soft-serve ice cream cone,snack,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_162,office_ml_p1,40,59,63,removing,Tip Pinch,blue squishy tube toy,toy,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_07,hardware_homedepot_p1,99,257,260,placing,Palmar,folding step stool,tool,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_027,hardware_homedepot_p2,74,92,96,picking up,Prismatic 2 Finger,metal electrical conduit connector,hardware,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_00,grocery_target_p2,31,144,152,picking up,Tip Pinch,stackable plastic storage bin,container,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_060,office_csail_p2,50,136,141,pulling,Medium Wrap,door lever handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_005,grocery_target_p1,5,14,54,picking up,Small Diameter,ice cream scoop,utensil,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_170,office_ml_p1,8,32,43,grasping,Power Sphere,green stress ball,ball,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_005,office_ml_p1,23,68,70,pushing,Ventral,gray chair,chair,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_124,hardware_homedepot_p5,56,100,108,turning,Precision Disk,stove control knob,knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_204,office_ml_p1,35,47,53,holding,Prismatic 2 Finger,small orange utility cutter,hand tool,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_045,grocery_target_p1,23,75,77,sliding,Prismatic 2 Finger,retail display shelf rail,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_099,home_kitchen_p1,50,119,124,placing,Tip Pinch,paper towel sheet,paper,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_268,office_ml_p1,28,47,49,holding,Tip Pinch,stack of paper sheets,paper,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_168,hardware_homedepot_p5,24,38,47,lifting,Prismatic 3 Finger,lidded plastic storage bin,box,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_014,office_csail_p2,11,12,58,switching on,Index Finger Extension,power strip switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_060,home_bedroom,23,45,47,pushing,Palmar,cardboard box,box,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_111,grocery_target_p1,34,48,55,placing,Palmar Pinch,woven rattan tray,tray,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_088,home_bedroom,27,211,217,picking up,Tripod,brown hoodie,clothing item,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_177,home_kitchen_p1,72,105,109,picking up,Prismatic 2 Finger,teaspoon,cutlery,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_08,hardware_homedepot_p1,7,12,33,picking up,Prismatic 2 Finger,step stool product box,package,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_045,home_kitchen_p1,26,44,47,placing,Small Diameter,small flashlight,electronics,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_092,office_csail_p1,9,14,123,spraying,Tip Pinch,plant mister spray bottle,bottle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_075,office_csail_p1,58,122,124,placing,Prismatic 3 Finger,tea bag,packaged food,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p3.hdf5,demo_29,home_kitchen_p3,120,192,198,eating,Prismatic 3 Finger,fork,cutlery,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_112,home_bedroom,8,12,45,picking up,Tip Pinch,pair of jeans,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_24,fablab_ml_p3,31,89,99,cutting,Light Tool,rotary fabric cutter,hand tool,Light Tool
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_174,office_ml_p1,26,34,45,picking up,Prismatic 2 Finger,small cardboard box,box,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_249,office_ml_p1,34,63,74,picking up,Prismatic 2 Finger,USB cable connector,cable,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_83,grocery_target_p2,55,100,106,picking up,Small Diameter,insulated travel tumbler,drinkware,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_02,hardware_homedepot_p1,108,180,190,moving,Prismatic 2 Finger,long cardboard box,box,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_30,grocery_target_p2,93,151,160,picking up,Fixed Hook,pack of bungee cords (canister with plastic strap handle),rope,Fixed Hook
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_036,office_ml_p2,25,44,45,grasping,Prismatic 2 Finger,clear acrylic tray,tray,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_035,hardware_homedepot_p2,19,71,78,picking up,Small Diameter,Armor All leather cleaner spray bottle,bottle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_001,office_csail_p2,11,14,31,turning,Tip Pinch,window latch lever,handle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_151,office_ml_p1,22,38,45,pushing,Small Diameter,plastic toy launcher lever,toy,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_10,eat_ygf_p2,46,106,115,picking up,Writing Tripod,chopsticks,utensil,Writing Tripod
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_17,grocery_plant,7,10,75,picking up,Prismatic 3 Finger,glass hanging terrarium (teardrop planter),container,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_033,office_csail_p2,8,14,63,picking up,Prismatic 2 Finger,portable power bank,charger,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_56,grocery_tj,46,77,91,touching,Index Finger Extension,clamshell of red grapes,packaged food,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_009,grocery_target_p1,77,112,120,picking up,Prismatic 3 Finger,OXO kitchen tool in tube package,utensil,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_41,home_kitchen_p2,21,40,47,pressing,Index Finger Extension,garbage disposal air switch button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_093,office_csail_p1,22,38,45,moving,Medium Wrap,office chair backrest,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_39,grocery_plant,133,179,179,touching,Tip Pinch,silver airplane ornament on display tree,unknown object,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_181,office_ml_p1,18,33,37,adjusting,Tip Pinch,yellow cable clip on white cord,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_33,fablab_ml_p2,9,13,57,moving,Medium Wrap,rolling drafting stool,chair,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_166,hardware_homedepot_p5,38,68,70,placing,Prismatic 2 Finger,plastic storage bin lid,container,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_093,hardware_homedepot_p5,34,113,117,pressing,Index Finger Extension,washing machine control button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_41,hardware_homedepot_p4,418,516,516,touching,Index Finger Extension,TruFuel metal fuel can,can,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_057,hardware_homedepot_p5,25,51,54,rotating,Small Diameter,gold gooseneck kitchen faucet spout,faucet,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_165,home_kitchen_p1,28,32,41,picking up,Tip Pinch,white plastic ladle,utensil,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_21,home_kitchen_p2,37,51,63,pushing,Index Finger Extension,box of tea bags,packaged food,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_42,grocery_plant,64,117,126,touching,Tip Pinch,small hanging ornament (rolled paper/tube),unknown object,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_69,grocery_plant,8,11,81,picking up,Tip Pinch,metal wire bracket,hardware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_076,hardware_homedepot_p2,43,62,65,picking up,Tip Pinch,carriage bolt,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_001,home_kitchen_p1,47,163,170,rotating,Small Diameter,manual coffee grinder crank,appliance,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_106,hardware_homedepot_p5,40,52,60,pulling,Medium Wrap,microwave oven door handle,handle,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_021,hardware_homedepot_p5,38,69,74,sliding,Small Diameter,sliding shower door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_121,home_bedroom,6,13,46,picking up,Tip Pinch,white sock,clothing item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_235,office_ml_p1,39,62,73,sliding,Prismatic 2 Finger,printed sheet of paper,paper,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_86,grocery_target_p2,12,14,127,picking up,Prismatic 3 Finger,orange reusable water bottle,bottle,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p1.hdf5,demo_059,grocery_target_p1,26,53,54,touching,Tip Pinch,gold mirrored vanity tray,tray,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p1.hdf5,demo_06,eat_ygf_p1,94,110,133,picking up,Prismatic 2 Finger,buffet tongs,utensil,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_033,home_kitchen_p1,36,51,53,pushing,Palmar,kitchen cabinet door,cabinet,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_055,hardware_homedepot_p5,39,94,96,pulling,Prismatic 2 Finger,cabinet door handle,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_088,office_csail_p2,7,12,52,pouring,Small Diameter,plastic watering can,container,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_070,hardware_homedepot_p5,8,12,75,pulling,Small Diameter,pull-down faucet sprayer head,faucet,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_078,home_kitchen_p1,25,59,64,pushing,Parallel Extension,kitchen drawer,drawer,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p2.hdf5,demo_08,home_kitchen_p2,6,7,185,picking up,Medium Wrap,electric kettle,appliance,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_103,home_kitchen_p1,24,50,52,wiping,Palmar,white cleaning cloth,cleaning item,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_018,hardware_homedepot_p3,41,66,73,pushing,Lateral,Frost King weatherstripping package,package,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_224,office_ml_p2,60,84,95,attaching,Tip Pinch,clip-on webcam,camera,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_11,fablab_ml_p3,24,48,56,picking up,Ring,red-handled scissors,scissors,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_149,home_kitchen_p1,5,13,28,picking up,Tip Pinch,frozen food bag,packaged food,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_069,hardware_homedepot_p5,23,48,50,tilting,Tip Pinch,single-handle kitchen faucet lever,faucet,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_204,office_ml_p2,7,38,48,switching on,Index Finger Extension,wall light switch,switch,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_199,office_ml_p2,31,46,52,grasping,Prismatic 2 Finger,paper shopping bag,bag,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_061,hardware_homedepot_p3,5,14,36,pinching,Tip Pinch,black cabinet knob sample,knob,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_06,grocery_plant,41,74,80,placing,Tripod,small potted succulent,plant,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_128,home_kitchen_p1,153,249,250,pulling,Tip Pinch,paper towel sheet,paper,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p1.hdf5,demo_002,office_csail_p1,6,8,62,pouring,Medium Wrap,watering can,container,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_081,home_kitchen_p1,31,48,52,adjusting,Tip Pinch,wrapped food on microwave plate,food,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_bedroom.hdf5,demo_106,home_bedroom,7,13,34,spreading,Tip Pinch,bed blanket,fabric,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_041,hardware_homedepot_p3,27,38,44,turning,Sphere 3 Finger,black door knob (display sample),knob,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_95,grocery_target_p2,46,217,223,picking up,Tip Pinch,insulated water bottle,bottle,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_105,hardware_homedepot_p3,9,14,34,holding,Medium Wrap,pick mattock,hand tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p4.hdf5,demo_88,hardware_homedepot_p4,28,39,49,removing,Tip Pinch,brass plumbing fitting (removing attached tag/cap),hardware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_037,office_csail_p2,5,9,34,picking up,Prismatic 3 Finger,wireless keyboard,keyboard,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/home_kitchen_p1.hdf5,demo_129,home_kitchen_p1,44,103,103,placing,Palmar,plastic mixing bowl,bowl,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_mcdonalds.hdf5,demo_01,eat_mcdonalds,28,41,46,picking up,Small Diameter,plastic drink cup,cup,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p3.hdf5,demo_04,fablab_ml_p3,99,152,152,placing,Prismatic 3 Finger,metal tongs,hand tool,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_277,office_ml_p1,11,13,19,picking up,Prismatic 2 Finger,plush zippered purse,bag,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_167,office_ml_p1,37,48,52,placing,Tip Pinch,small rainbow stress ball,ball,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_089,hardware_homedepot_p3,8,14,53,picking up,Tip Pinch,staple hasp,hardware,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_159,office_ml_p2,10,13,28,pushing,Palmar,small yellow cardboard box,box,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_91,fablab_ml_p2,59,94,95,placing,Palmar,wooden lattice block,construction material,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_053,hardware_homedepot_p3,29,91,93,pulling,Prismatic 2 Finger,recessed door pull handle,handle,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_098,office_ml_p2,23,30,40,adjusting,Prismatic 2 Finger,small black plant pot,plant,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_37,fablab_ml_p2,38,102,116,pushing,Index Finger Extension,small parts drawer,drawer,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_077,office_csail_p2,39,46,54,pushing,Palmar,glass cabinet door,cabinet,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/fablab_ml_p2.hdf5,demo_75,fablab_ml_p2,33,60,66,adjusting,Tip Pinch,cam-buckle strap fastener,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_018,office_ml_p1,67,105,115,pulling,Tip Pinch,disinfecting wipe,cleaning item,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_plant.hdf5,demo_26,grocery_plant,113,152,160,placing,Medium Wrap,driftwood branch,stick,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/eat_ygf_p2.hdf5,demo_19,eat_ygf_p2,126,185,192,picking up,Tripod Variation,chopsticks,utensil,Other
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_088,hardware_homedepot_p5,37,59,59,pressing,Index Finger Extension,dryer control button,button,Index Finger Extension
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p3.hdf5,demo_097,hardware_homedepot_p3,5,57,67,picking up,Prismatic 2 Finger,swivel caster wheel (red),hardware,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_184,office_ml_p1,49,56,62,placing,Tip Pinch,short yellow pencil,pencil,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_037,office_ml_p2,6,14,60,sliding,Prismatic 2 Finger,clear acrylic storage bin,container,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p2.hdf5,demo_041,hardware_homedepot_p2,185,261,265,grasping,Medium Wrap,orbital car polisher,power tool,Medium Wrap
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p2.hdf5,demo_237,office_ml_p2,20,44,44,pressing,Palmar,hardcover book (title: BUILD),book,Palmar
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_024,hardware_homedepot_p5,21,66,73,sliding,Small Diameter,sliding shower door handle,handle,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p1.hdf5,demo_00,hardware_homedepot_p1,35,58,62,picking up,Small Diameter,black plastic toolbox with yellow handle,toolbox,Small Diameter
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_target_p2.hdf5,demo_11,grocery_target_p2,6,10,111,picking up,Prismatic 3 Finger,white plastic laundry basket,container,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/hardware_homedepot_p5.hdf5,demo_033,hardware_homedepot_p5,48,73,73,turning,Prismatic 2 Finger,faucet handle,faucet,Prismatic 2 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_ml_p1.hdf5,demo_195,office_ml_p1,53,120,127,twisting,Prismatic 3 Finger,Rubik's Cube puzzle,toy,Prismatic 3 Finger
+/Users/cassandrahe/Documents/6.S985/opentouch/data/office_csail_p2.hdf5,demo_035,office_csail_p2,7,11,83,pinching,Tip Pinch,binder clip,fastener,Tip Pinch
+/Users/cassandrahe/Documents/6.S985/opentouch/data/grocery_tj.hdf5,demo_06,grocery_tj,5,11,39,picking up,Prismatic 2 Finger,granola pouch,packaged food,Prismatic 2 Finger
