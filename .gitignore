@@ -217,3 +217,5 @@ experiments/*/logs/
 .DS_Store
 **/.DS_Store
 
+*.hdf5
+*.part
