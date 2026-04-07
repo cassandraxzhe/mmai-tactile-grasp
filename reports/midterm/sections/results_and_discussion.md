@@ -19,6 +19,7 @@ Table 1 presents test accuracy and macro F1 for the three modality configuration
 | 1 | Visual only | **31.9%** | **0.169** | 1.041 |
 | 2 | Visual + pose | 30.0% | 0.135 | 0.773 |
 | 3 | Visual + pose + tactile | 28.9% | 0.144 | 0.758 |
+| 4 | Pose only | 21.7% | 0.043 | 2.208 |
 | — | Random chance | 3.6% | — | — |
 
 ## Analysis
@@ -43,9 +44,19 @@ In parallel, Edward Chen developed `PressureInpaintNet`, a U-Net inpainting mode
 
 $$\mathcal{L}_{\text{inpaint}} = \text{MSE}(\hat{\mathbf{M}}, \mathbf{M}) + \lambda \cdot \frac{\sum_{(i,j) \notin \mathcal{F}} |\hat{M}_{ij} - M_{ij}|}{|\{(i,j) \notin \mathcal{F}\}|}$$
 
-*(Results and visualization to be added once Edward shares training metrics.)*
+<!-- TODO -->
+<!-- *(Results and visualization to be added once Edward shares training metrics.)* -->
 
 This work is complementary to the classification baseline in an important way: while our classification model asks whether pre-contact signals predict *which* grip type will form, the inpainting model asks whether partial contact observations can recover the *spatial distribution* of pressure across the full hand. Together they bracket the full prediction problem — from pre-contact coarse intent to at-contact dense spatial reconstruction.
+
+## Egocentric Video Prediction Baseline
+
+<!-- TODO -->
+<!-- *(Akshata Tiwari — fill in numbers once results are available)* -->
+
+A conditional DDPM trained to generate the peak contact frame from 8 pre-contact egocentric context frames. The model uses a frozen ResNet18 context encoder that produces per-frame cross-attention tokens, injected into a UNet2DConditionModel at multiple resolutions. Training follows the standard DDPM noise prediction objective — the model learns to predict the noise added to the target frame conditioned on context embeddings — with cosine LR warmup over 30 epochs at 64×64 resolution. Best validation noise-MSE: **[X]** (epoch **[Y]**/30).
+
+This baseline directly prototypes the cross-attention conditioning architecture described in Stage 2 of our proposed approach. The key architectural parallel is the context encoder: here it encodes pre-contact RGB frames into cross-attention tokens that condition the denoising U-Net, while in our final model the same role will be played by the visual and pose encoders $z_V$ and $z_P$ conditioning a tactile pressure map denoiser. The successful training of this video prediction model validates the diffusion backbone architecture for our setting and provides a pretrained context encoder that can be adapted for the cross-modal tactile prediction task.
 
 ## Failure Analysis
 
