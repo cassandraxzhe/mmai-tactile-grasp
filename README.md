@@ -41,17 +41,39 @@ mmai-tactile-grasp/
 ├── README.md
 ├── assignments/
 │   ├── hw1/
-│   ├── hw2/
-│   └── hw3/                        # EgoDex fine-tuning (Qwen2.5-VL + LoRA)
-├── notebooks/
-│   └── opentouch_exploration.ipynb # OpenTouch data exploration (Direction B)
-├── experiments/
-│   └── direction_B/                # Classification ablation results
+│   │   └── hw1_multimodal_epic_kitchens.ipynb
+│   └── hw3/
+│       └── casxzhe_Homework_3_Multimodal_LLMs.ipynb
+├── baselines/
+│   ├── README.md
+│   └── pressure_inpainting/
+│       ├── pressure_impaint.py
+│       └── pressure_impaint.ipynb
 ├── data/
-│   └── splits/                     # train/val/test CSVs
+│   ├── README.md
+│   └── splits/
+│       ├── train.csv
+│       ├── val.csv
+│       └── test.csv
+├── experiments/
+│   └── direction_B/
+│       ├── results_summary.md
+│       └── training_loss_curves.png
+├── notebooks/
+│   ├── opentouch_exploration.ipynb
+│   └── opentouch_colab_training.ipynb
 └── reports/
     ├── proposal/
+    │   └── 6_S985_Proposal.pdf
     └── midterm/
+        ├── sections/
+        │   ├── introduction.md
+        │   ├── problem_statement.md
+        │   ├── proposed_approach.md
+        │   ├── experimental_methodology.md
+        │   ├── results_and_discussion.md
+        │   └── next_steps.md
+        └── midterm_report_draft.md
 ```
 
 ---
