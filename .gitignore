@@ -213,3 +213,7 @@ data/*.h5
 # Model checkpoints
 **/checkpoints/
 experiments/*/logs/
+
+.DS_Store
+**/.DS_Store
+
