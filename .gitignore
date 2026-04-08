@@ -212,10 +212,22 @@ data/*.h5
 
 # Model checkpoints
 **/checkpoints/
-experiments/*/logs/
+# Logs
+**/logs/
+*.log
+*.out
+*.err
 
+# OS
 .DS_Store
 **/.DS_Store
 
+# Data
 *.hdf5
 *.part
+
+# OpenTouch cloned repo
+opentouch/
+
+# Shell scripts
+*.sh
