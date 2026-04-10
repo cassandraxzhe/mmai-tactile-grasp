@@ -2,7 +2,7 @@
 import torch
 import torch.nn as nn
 from torchvision.models import resnet18, ResNet18_Weights
-from diffusers import UNet2DConditionModel, DDPMScheduler
+from diffusers import UNet2DConditionModel, DDPMScheduler, DDIMScheduler
 
 
 class ContextEncoder(nn.Module):
@@ -55,6 +55,8 @@ def build_scheduler(num_train_timesteps=1000):
 
 @torch.no_grad()
 def generate(ctx_frames_tensor, unet, ctx_enc, scheduler, n_steps=50, device="cpu"):
+    # Use DDIM for inference — much better quality at low step counts
+    scheduler = DDIMScheduler.from_config(scheduler.config)
     """
     Full DDPM reverse process to generate a predicted contact frame.
     ctx_frames_tensor: (1, N, 3, H, W) on device
