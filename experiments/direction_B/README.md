@@ -33,7 +33,7 @@ This is a classic overfitting signature. The frozen DINOv3 visual encoder provid
 
 ## Training Loss Curves
 
-![Training loss curves](training_loss_curves.png)
+![Training loss curves](training_loss_curves2.png)
 
 All three runs show consistent convergence. The multimodal models converge to lower training loss but generalize worse — the gap between training loss and test accuracy widens with each added modality.
 
